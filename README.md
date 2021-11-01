@@ -62,14 +62,15 @@ Papers about explainability of GNNs
 29. [ICLR 2021] **Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking**[[paper]](https://arxiv.org/abs/2010.00577)
 30. [KDD 2021] **When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods**[[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467283)
 31. [KDD 2021] **Counterfactual Graphs for Explainable Classification of Brain Networks**[[paper]](https://arxiv.org/abs/2106.08640)
-32. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
-33. [ICDM 2021] **GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs** [[paper]](https://arxiv.org/abs/2110.05598)
-34. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** 
-35. [CIKM 2021] **Towards Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2108.12055)
-36. [ECML PKDD 2021] **GraphSVX: Shapley Value Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2104.10482)
-37. [IJCNN 21] **MEG: Generating Molecular Counterfactual Explanations for Deep Graph Networks**  [[paper]](https://arxiv.org/pdf/2104.08060.pdf)
-38. [KDD workshop 21] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
-39. [NeSy 21] **A New Concept for Explaining Graph Neural Networks** [[paper]](http://ceur-ws.org/Vol-2986/paper1.pdf)
+32. [WWW 2021] **Interpreting and Unifying Graph Neural Networks with An Optimization Framework** [[paper]](https://arxiv.org/abs/2101.11859)
+33. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
+34. [ICDM 2021] **GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs** [[paper]](https://arxiv.org/abs/2110.05598)
+35. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** 
+36. [CIKM 2021] **Towards Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2108.12055)
+37. [ECML PKDD 2021] **GraphSVX: Shapley Value Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2104.10482)
+38. [IJCNN 21] **MEG: Generating Molecular Counterfactual Explanations for Deep Graph Networks**  [[paper]](https://arxiv.org/pdf/2104.08060.pdf)
+39. [KDD workshop 21] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
+40. [NeSy 21] **A New Concept for Explaining Graph Neural Networks** [[paper]](http://ceur-ws.org/Vol-2986/paper1.pdf)
 
 
 
