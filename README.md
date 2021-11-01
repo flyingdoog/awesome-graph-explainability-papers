@@ -94,7 +94,7 @@ Papers about explainability of GNNs
 5. [ICML workstop 2020] **Contrastive Graph Neural Network Explanation** [[paper]](https://arxiv.org/pdf/2010.13663.pdf)
 6. [ICML workstop 2020] **Towards Explainable Graph Representations in Digital Pathology** [[paper]](https://arxiv.org/pdf/2007.00311.pdf)
 7. [NeurIPS workshop 2020] **Explaining Deep Graph Networks with Molecular Counterfactuals** [[paper]](https://arxiv.org/pdf/2011.05134.pdf)
-8. [DataMod@CIKM 2020] **Exploring Graph-Based Neural Networks for Automatic Brain Tumor Segmentation"** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-70650-0_2
+8. [DataMod@CIKM 2020] **Exploring Graph-Based Neural Networks for Automatic Brain Tumor Segmentation"** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-70650-0_2)
 9. [Arxiv 2020] **Graph Neural Networks Including Sparse Interpretability** [[paper]](https://arxiv.org/pdf/2007.00119.pdf)
 10. [OpenReview 20] **A Framework For Differentiable Discovery Of Graph Algorithms** [[paper]](https://openreview.net/pdf?id=ueiBFzt7CiK)
 11. [OpenReview 20] **Causal Screening to Interpret Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
