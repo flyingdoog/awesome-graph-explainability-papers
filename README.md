@@ -69,6 +69,7 @@ Papers about explainability of GNNs
 36. [ECML PKDD 2021] **GraphSVX: Shapley Value Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2104.10482)
 37. [IJCNN 21] **MEG: Generating Molecular Counterfactual Explanations for Deep Graph Networks**  [[paper]](https://arxiv.org/pdf/2104.08060.pdf)
 38. [KDD workshop 21] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
+39. [NeSy 21] **A New Concept for Explaining Graph Neural Networks** [[paper]](http://ceur-ws.org/Vol-2986/paper1.pdf)
 
 
 
