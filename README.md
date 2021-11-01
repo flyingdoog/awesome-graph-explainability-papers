@@ -27,5 +27,5 @@ Papers about explainability of GNNs
 
 
 ### Year 2020
-11. [OpenReview 20] A Framework For Differentiable Discovery Of Graph Algorithms [[paper]](https://openreview.net/pdf?id=ueiBFzt7CiK)
-12. [OpenReview 20] Causal Screening to Interpret Graph Neural Networks [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
+11. [OpenReview 20] **A Framework For Differentiable Discovery Of Graph Algorithms** [[paper]](https://openreview.net/pdf?id=ueiBFzt7CiK)
+12. [OpenReview 20] **Causal Screening to Interpret Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
