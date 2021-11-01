@@ -1,7 +1,6 @@
 # awesome-graph-explainability-papers
 Papers about explainability of GNNs
 
-
 ### Most Influential [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability)
 
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
