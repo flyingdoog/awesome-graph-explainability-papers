@@ -12,9 +12,10 @@ Papers about explainability of GNNs
 9. [ICLR 2021] **Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking**[[paper]](https://arxiv.org/abs/2010.00577)
 10. [KDD 2021] **When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods**[[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467283)
 11. [KDD 2021] **Counterfactual Graphs for Explainable Classification of Brain Networks**[[paper]](https://arxiv.org/abs/2106.08640)
-12. [ICDM 2021] **Multi-objective Explanations of GNN Predictions**
-13. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
-14. [ICDM 2021] **GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs **[[paper]](https://arxiv.org/abs/2110.05598)
+12. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
+13. [ICDM 2021] **GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs **[[paper]](https://arxiv.org/abs/2110.05598)
+14. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** 
+
 
 
 
