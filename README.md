@@ -32,7 +32,7 @@ Papers about explainability of GNNs
 
 ### Year 2021
 1. [PAKDD 21] **SCARLET: Explainable Attention based Graph Neural Network for Fake News spreader prediction** [[paper]](https://arxiv.org/abs/2102.04627)
-2. [J. Chem. Inf. Model] **https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01344** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.02.450937v2.abstract)
+2. [J. Chem. Inf. Model] **Coloring Molecules with Explainable Artificial Intelligence for Preclinical Relevance Assessment** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01344)
 3. [BioRxiv 21] **APRILE: Exploring the Molecular Mechanisms of Drug Side Effects with Explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.02.450937v2.abstract)
 4. [ISM 21] **Edge-Level Explanations for Graph Neural Networks by Extending Explainability Methods for Convolutional Neural Networks** [[paper]](https://arxiv.org/pdf/2111.00722.pdf)
 5. [TPAMI 21] **Higher-Order Explanations of Graph Neural Networks via Relevant Walks** [[paper]](https://ieeexplore.ieee.org/document/9547794)
