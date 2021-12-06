@@ -28,6 +28,8 @@ Papers about explainability of GNNs
 10. **HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media**. *Chen, Hsin-Yu and Li, Cheng-Te*. EMNLP 2020. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.200/)
 
 
+### Year 2022
+1. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
 
 
 ### Year 2021
