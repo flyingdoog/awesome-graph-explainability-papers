@@ -35,6 +35,7 @@ Papers about explainability of GNNs
 4. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
 5. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
 6. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
+7. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
 
 
 
