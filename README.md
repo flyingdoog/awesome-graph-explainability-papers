@@ -30,6 +30,12 @@ Papers about explainability of GNNs
 
 ### Year 2022
 1. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
+2. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
+3. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
+4. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
+5. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
+6. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
+
 
 
 ### Year 2021
@@ -44,9 +50,7 @@ Papers about explainability of GNNs
 9. [TPAMI 21] **Higher-Order Explanations of Graph Neural Networks via Relevant Walks** [[paper]](https://ieeexplore.ieee.org/document/9547794)
 10. [OpenReview 21] **FlowX: Towards Explainable Graph Neural Networks via Message Flows** [[paper]](https://openreview.net/pdf?id=mRF387I4Wl)
 11. [OpenReview 21] **Task-Agnostic Graph Neural Explanations** [[paper]](https://openreview.net/pdf?id=NQrx8EYMboO)
-12. [OpenReview 21] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OKhFyMVz6t7)
-13. [OpenReview 21] **DEGREE: Decomposition Based Explanation for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=Ve0Wth3ptT_)
-14. [OpenReview 21] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=hGXij5rfiHw)
+12. [OpenReview 21] **DEGREE: Decomposition Based Explanation for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=Ve0Wth3ptT_)
 15. [OpenReview 21] **Interpreting Graph Neural Networks via Unrevealed Causal Learning** [[paper]](https://openreview.net/attachment?id=JzFyNx7-SyS&name=pdf)
 16. [OpenReview 21] **Explainable GNN-Based Models over Knowledge Graphs** [[paper]](https://openreview.net/attachment?id=CrCvGNHAIrz&name=pdf)
 17. [NeurIPS 2021] **Reinforcement Learning Enhanced Explainer for Graph Neural Networks** [[paper]](http://recmind.cn/papers/explainer_nips21.pdf)
