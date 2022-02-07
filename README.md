@@ -29,14 +29,15 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
-2. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
-3. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
-4. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
-5. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
-6. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
-7. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
-8. [Arxiv 22] **MotifExplainer: a Motif-based Graph Neural Network Explainer**  [[paper]](https://arxiv.org/abs/2202.00519)
+1. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
+2. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
+3. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
+4. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
+5. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
+6. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
+7. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
+8. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
+9. [Arxiv 22] **MotifExplainer: a Motif-based Graph Neural Network Explainer**  [[paper]](https://arxiv.org/abs/2202.00519)
 
 
 
