@@ -29,7 +29,7 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [MLOG-WSDM] **Providing Node-level Local Explanation for node2vec through Reinforcement Learning** [[paper]](https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf)
+1. [MLOG-WSDM22] **Providing Node-level Local Explanation for node2vec through Reinforcement Learning** [[paper]](https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf)
 2. [The Webconf 22] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/abs/2202.08816)
 3. [Arxiv 22] **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers** [[paper]](https://arxiv.org/abs/2202.08815)
 4. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
