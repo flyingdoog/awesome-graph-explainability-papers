@@ -29,19 +29,20 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [AISTATS 22] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods** [[paper]](https://arxiv.org/abs/2106.09078)
-2. [MLOG-WSDM22] **Providing Node-level Local Explanation for node2vec through Reinforcement Learning** [[paper]](https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf)
-3. [The Webconf 22] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/abs/2202.08816)
-4. [Arxiv 22] **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers** [[paper]](https://arxiv.org/abs/2202.08815)
-5. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
-6. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
-7. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
-8. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
-9. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
-10. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
-11. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
-12. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
-13. [Arxiv 22] **MotifExplainer: a Motif-based Graph Neural Network Explainer**  [[paper]](https://arxiv.org/abs/2202.00519)
+1. [CVPR 22] **Interpreting Graph Neural Networks via Unrevealed Causal Learning** [[paper]](https://openreview.net/attachment?id=JzFyNx7-SyS&name=pdf)
+2. [AISTATS 22] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods** [[paper]](https://arxiv.org/abs/2106.09078)
+3. [MLOG-WSDM22] **Providing Node-level Local Explanation for node2vec through Reinforcement Learning** [[paper]](https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf)
+4. [The Webconf 22] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/abs/2202.08816)
+5. [Arxiv 22] **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers** [[paper]](https://arxiv.org/abs/2202.08815)
+6. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
+7. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
+8. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
+9. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
+10. [ICLR 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
+11. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
+12. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
+13. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
+14. [Arxiv 22] **MotifExplainer: a Motif-based Graph Neural Network Explainer**  [[paper]](https://arxiv.org/abs/2202.00519)
 
 
 
@@ -58,7 +59,6 @@ Papers about explainability of GNNs
 10. [OpenReview 21] **FlowX: Towards Explainable Graph Neural Networks via Message Flows** [[paper]](https://openreview.net/pdf?id=mRF387I4Wl)
 11. [OpenReview 21] **Task-Agnostic Graph Neural Explanations** [[paper]](https://openreview.net/pdf?id=NQrx8EYMboO)
 12. [OpenReview 21] **DEGREE: Decomposition Based Explanation for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=Ve0Wth3ptT_)
-15. [OpenReview 21] **Interpreting Graph Neural Networks via Unrevealed Causal Learning** [[paper]](https://openreview.net/attachment?id=JzFyNx7-SyS&name=pdf)
 16. [OpenReview 21] **Explainable GNN-Based Models over Knowledge Graphs** [[paper]](https://openreview.net/attachment?id=CrCvGNHAIrz&name=pdf)
 17. [NeurIPS 2021] **Reinforcement Learning Enhanced Explainer for Graph Neural Networks** [[paper]](http://recmind.cn/papers/explainer_nips21.pdf)
 18. [NeurIPS 2021] **Towards Multi-Grained Explainability for Graph Neural Networks** [[paper]](http://staff.ustc.edu.cn/~hexn/papers/nips21-explain-gnn.pdf)
