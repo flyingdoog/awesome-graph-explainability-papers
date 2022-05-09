@@ -29,7 +29,7 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [DSFAA 22] **On Glocal Explainability of Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-00123-9_52)
+1. [DASFAA 22] **On Glocal Explainability of Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_52)
 2. [AAAI 22] **KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**[[paper]](https://arxiv.org/pdf/2201.00491.pdf)
 3. [TPAMI 22] **Reinforced Causal Explainer for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2204.11028)
 4. [Arxiv 22] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability** [[paper]](https://arxiv.org/abs/2204.08570)
