@@ -29,7 +29,7 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [AISTAT 22] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
+1. [AISTATS 22] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
 2. [AAAI 2022] **Prototype-Based Explanations for Graph Neural Networks** [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 3. [ISBI 22] **Interpretable Graph Convolutional Network Of Multi-Modality Brain Imaging For Alzheimer’s Disease Diagnosis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9761449?casa_token=w3IlSZNlKwcAAAAA:Xvh04eK29bZtbkRq5Eg3jUZURS3qs1k3AA1bhnnN2kKWmIjBnh7alAiy98zBgsHFtvFQqV0IYA)
 4. [Medical Imaging 2022]  **Phenotype guided interpretable graph convolutional network analysis of fMRI data reveals changing brain connectivity during adolescence** [[paper]](https://www.semanticscholar.org/paper/Phenotype-guided-interpretable-graph-convolutional-Orlichenko-Qu/d05adc7c772780be4b99a169441696017d49c6ed)
