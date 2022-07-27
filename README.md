@@ -2,8 +2,8 @@
 Papers about explainability of GNNs
 
 ### Most Influential Papers selected by [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability)
-
-1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
+ 
+1.**Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
 2. **Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [code](https://github.com/RexYing/gnn-model-explainer)
 3. **Explainability methods for graph convolutional neural networks**. *Pope Phillip E, Kolouri Soheil, Rostami Mohammad, Martin Charles E, Hoffmann Heiko*. CVPR 2019.[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 4. **Parameterized Explainer for Graph Neural Network**. *Luo Dongsheng, Cheng Wei, Xu Dongkuan, Yu Wenchao, Zong Bo, Chen Haifeng, Zhang Xiang*. NeurIPS 2020. [paper](https://arxiv.org/abs/2011.04573) [code](https://github.com/flyingdoog/PGExplainer)
@@ -16,7 +16,9 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [ArXiv 22] **On Consistency in Graph Neural Network Interpretation** [[paper]](https://arxiv.org/abs/2205.13733)
+1. [EuroS&P 22] **Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9797387?casa_token=1AvRK3S4eJQAAAAA:8PXcOA8iU1ketRMdu6YVMBMcfZKjF7MIVujPpHTpjdc2O9r1cvUg8usfRiOYZ5Fe-MKJi4Y)
+1. [ArXiv 22]**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.09677)
+2. [ArXiv 22]**On Consistency in Graph Neural Network Interpretation** [[paper]](https://arxiv.org/abs/2205.13733)
 2. [AISTATS 22] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
 3. [AAAI 2022] **Prototype-Based Explanations for Graph Neural Networks** [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 4. [ISBI 22] **Interpretable Graph Convolutional Network Of Multi-Modality Brain Imaging For Alzheimer’s Disease Diagnosis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9761449?casa_token=w3IlSZNlKwcAAAAA:Xvh04eK29bZtbkRq5Eg3jUZURS3qs1k3AA1bhnnN2kKWmIjBnh7alAiy98zBgsHFtvFQqV0IYA)
@@ -29,6 +31,7 @@ Papers about explainability of GNNs
 11. [TPAMI 22] **Reinforced Causal Explainer for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2204.11028)
 12. [Arxiv 22] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability** [[paper]](https://arxiv.org/abs/2204.08570)
 13. [CVPR 22] **OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks** [[paper]](https://wanyu-lin.github.io/assets/publications/wanyu-cvpr2022.pdf)
+14. [CVPR 22] **Improving Subgraph Recognition with Variational Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2112.09899)
 14. [HAL 22] **On GNN explanability with activation patterns**  [[paper]](https://hal.archives-ouvertes.fr/hal-03367714/file/hal.pdf)
 15. [Arxiv 22] **Explainability in Graph Neural Networks: An Experimental Survey** [[paper]](https://arxiv.org/abs/2203.09258)
 16. [Arxiv 22] **Explainability and Graph Learning from Social Interactions** [[paper]](https://arxiv.org/pdf/2203.07494.pdf)
@@ -38,7 +41,7 @@ Papers about explainability of GNNs
 20. [Arxiv 22] **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers** [[paper]](https://arxiv.org/abs/2202.08815)
 21. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
 22. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
-23. [Arxiv 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
+23. [ICML 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
 24. [Arxiv 22] **Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://arxiv.org/abs/2201.12380)
 25. [OpenReview 21] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
 26. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
@@ -49,8 +52,7 @@ Papers about explainability of GNNs
 
 
 ### Year 2021
-1. [Arxiv 21] **Improving Subgraph Recognition with Variational Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2112.09899)
-2. [Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
+1.[Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
 3. [IJCKG2021] **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** [[paper]](https://arxiv.org/abs/2112.08589)
 4. [Arxiv 21] **Combining Sub-Symbolic and Symbolic Methods for Explainability** [[paper]](https://arxiv.org/abs/2112.01844)
 5. [PAKDD 21] **SCARLET: Explainable Attention based Graph Neural Network for Fake News spreader prediction** [[paper]](https://arxiv.org/abs/2102.04627)
