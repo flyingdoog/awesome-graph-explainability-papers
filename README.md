@@ -2,8 +2,8 @@
 Papers about explainability of GNNs
 
 ### Most Influential Papers selected by [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability
-1.**Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
-2.**Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [code](https://github.com/RexYing/gnn-model-explainer)
+1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
+2. **Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [code](https://github.com/RexYing/gnn-model-explainer)
 3. **Explainability methods for graph convolutional neural networks**. *Pope Phillip E, Kolouri Soheil, Rostami Mohammad, Martin Charles E, Hoffmann Heiko*. CVPR 2019.[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 4. **Parameterized Explainer for Graph Neural Network**. *Luo Dongsheng, Cheng Wei, Xu Dongkuan, Yu Wenchao, Zong Bo, Chen Haifeng, Zhang Xiang*. NeurIPS 2020. [paper](https://arxiv.org/abs/2011.04573) [code](https://github.com/flyingdoog/PGExplainer)
 5. **Xgnn: Towards model-level explanations of graph neural networks**. *Yuan Hao, Tang Jiliang, Hu Xia, Ji Shuiwang*. KDD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085). 
@@ -51,8 +51,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2021
-1.[Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
-3. [IJCKG2021] **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** [[paper]](https://arxiv.org/abs/2112.08589)
+1. [Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
+2. [IJCKG2021] **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** [[paper]](https://arxiv.org/abs/2112.08589)
 4. [Arxiv 21] **Combining Sub-Symbolic and Symbolic Methods for Explainability** [[paper]](https://arxiv.org/abs/2112.01844)
 5. [PAKDD 21] **SCARLET: Explainable Attention based Graph Neural Network for Fake News spreader prediction** [[paper]](https://arxiv.org/abs/2102.04627)
 6. [J. Chem. Inf. Model] **Coloring Molecules with Explainable Artificial Intelligence for Preclinical Relevance Assessment** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01344)
