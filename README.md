@@ -19,9 +19,11 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [Arxiv 22] **XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics** [[paper]]([https://arxiv.org/abs/2207.09088]
-2. [Arxiv 22] **Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]]([https://arxiv.org/abs/2207.11175]
-3. [Infocom 22] **Interpretability Evaluation of Botnet Detection Model based on Graph Neural Network** [[paper]]([https://arxiv.org/abs/2206.02957](https://ieeexplore.ieee.org/abstract/document/9798287?casa_token=oiNlLIS_t9IAAAAA:Ej33sFuIpBMjuf3NrItxI_ZifPqOhfEn9kBNiaZt6qaMnTCaoyJbpxfzQqIMm3r3Tk3jf6Q))
+1. [Arxiv 22] **Defending Against Backdoor Attack on Graph Nerual Network by Explainability** [[paper]]([https://arxiv.org/pdf/2209.02902.pdf])
+2. [Arxiv 22] **XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics** [[paper]]([https://arxiv.org/abs/2207.09088])
+2. [Arxiv 22] **An Explainer for Temporal Graph Neural Networks** [[paper]]([https://arxiv.org/pdf/2209.00807.pdf])
+3. [Arxiv 22] **Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]]([https://arxiv.org/abs/2207.11175])
+3. [Infocom 22] **Interpretability Evaluation of Botnet Detection Model based on Graph Neural Network** [[paper]](https://ieeexplore.ieee.org/abstract/document/9798287?casa_token=oiNlLIS_t9IAAAAA:Ej33sFuIpBMjuf3NrItxI_ZifPqOhfEn9kBNiaZt6qaMnTCaoyJbpxfzQqIMm3r3Tk3jf6Q)
 4. [Arxiv 22] **GRETEL: A unified framework for Graph Counterfactual Explanation Evaluation**  [[paper]](https://arxiv.org/abs/2206.02957)
 5. [TNNLS22] **A Meta-Learning Approach for Training Explainable Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/9772740?casa_token=32G20FDwIZUAAAAA:fOTjITyF5NGLogN5wYlPhHE7iBAxX2bCLzqDNvsOBrrds8A6itlgIDjxRxmikJ1gMdR9HLg)
 6. [Arxiv 22] **EiX-GNN : Concept-level eigencentrality explainer for graph neural networks** [[paper]](https://arxiv.org/abs/2206.03491)
