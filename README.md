@@ -19,7 +19,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [Arxiv 22] **Defending Against Backdoor Attack on Graph Nerual Network by Explainability** [[paper]]([https://arxiv.org/pdf/2209.02902.pdf])
+1. [Arxiv 22] **Explainability in subgraphs-enhanced Graph Neural Networks** [[paper]]([https://arxiv.org/abs/2209.07926])
+2. [Arxiv 22] **Defending Against Backdoor Attack on Graph Nerual Network by Explainability** [[paper]]([https://arxiv.org/pdf/2209.02902.pdf])
 2. [Arxiv 22] **XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics** [[paper]]([https://arxiv.org/abs/2207.09088])
 2. [Arxiv 22] **An Explainer for Temporal Graph Neural Networks** [[paper]]([https://arxiv.org/pdf/2209.00807.pdf])
 3. [Arxiv 22] **Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]]([https://arxiv.org/abs/2207.11175])
