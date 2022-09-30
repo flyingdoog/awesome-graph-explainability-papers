@@ -20,6 +20,7 @@ Papers about explainability of GNNs
 
 ### Year 2022
 1. [MICCAI] **Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer’s Disease** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_45)
+2. [Arxiv 22] **Learning to Explain Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.14402.pdf)
 2. [Bioinformatics] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii120/6702000?login=false)
 3. [Arxiv 22] **GGNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.07924.pdf)
 2. [Arxiv 22] **Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis** [[paper]](https://arxiv.org/pdf/2208.10609.pdf)
