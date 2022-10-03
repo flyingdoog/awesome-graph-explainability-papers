@@ -122,6 +122,7 @@ Papers about explainability of GNNs
 47. [WWW 2021] **Interpreting and Unifying Graph Neural Networks with An Optimization Framework** [[paper]](https://arxiv.org/abs/2101.11859)
 48. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
 49. [ICDM 2021] **GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs** [[paper]](https://arxiv.org/abs/2110.05598)
+50. [ICDM 2021] **GNES: Learning to Explain Graph Neural Networks** [[paper]](https://cs.emory.edu/~lzhao41/materials/papers/GNES.pdf)
 50. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** [[paper]](https://arxiv.org/abs/2111.14651)
 51. [CIKM 2021] **Towards Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2108.12055)
 52. [ECML PKDD 2021] **GraphSVX: Shapley Value Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2104.10482)
