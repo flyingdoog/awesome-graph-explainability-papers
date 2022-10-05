@@ -19,7 +19,15 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [MICCAI] **Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer’s Disease** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_45)
+1. [Openreview 23] **MEGAN: Multi Explanation Graph Attention Network** [[paper]](https://openreview.net/forum?id=H6LVUiHzYDE)
+2. [Openreview 23] **Explaining Temporal Graph Models through an Explorer-Navigator Framework** [[paper]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
+2. [Openreview 23] **TGP: Explainable Temporal Graph Neural Networks for Personalized Recommendation** [[paper]](https://openreview.net/forum?id=EGobBwPc1J-)
+2. [Openreview 23] **Rethinking the Explanation of Graph Neural Network via Non-parametric Subgraph Matching** [[paper]](https://openreview.net/forum?id=p0MBhpO5wQ)
+2. [Openreview 23] **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=jgmuRzM-sb6)
+2. [Openreview 23] **On Regularization for Explaining Graph Neural Networks: An Information Theory Perspective** [[paper]](https://openreview.net/forum?id=5rX7M4wa2R_)
+2. [Openreview 23] **A Differential Geometric View and Explainability of GNN on Evolving Graphs** [[paper]](https://openreview.net/forum?id=lRdhvzMpVYV)
+2. [Openreview 23] **Global Explainability of GNNs via Logic Combination of Learned Concepts ** [[paper]](https://openreview.net/forum?id=OTbRTIY4YS)
+2. [MICCAI] **Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer’s Disease** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_45)
 2. [Arxiv 22] **Learning to Explain Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.14402.pdf)
 2. [Arxiv 22] **PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes** [[paper]](https://arxiv.org/abs/2208.03075)
 3. [Bioinformatics] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii120/6702000?login=false)
