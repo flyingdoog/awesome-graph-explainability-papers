@@ -29,6 +29,7 @@ Papers about explainability of GNNs
 2. [Openreview 23] **Global Explainability of GNNs via Logic Combination of Learned Concepts** [[paper]](https://openreview.net/forum?id=OTbRTIY4YS)
 2. [MICCAI] **Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer’s Disease** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_45)
 2. [Arxiv 22] **Learning to Explain Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.14402.pdf)
+2. [Arxiv 22] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2210.01974)
 2. [Arxiv 22] **PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes** [[paper]](https://arxiv.org/abs/2208.03075)
 3. [Bioinformatics] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii120/6702000?login=false)
 4. [Arxiv 22] **GGNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.07924.pdf)
