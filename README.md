@@ -68,7 +68,7 @@ Papers about explainability of GNNs
 37. [Arxiv 22] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability** [[paper]](https://arxiv.org/abs/2204.08570)
 38. [CVPR 22] **OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks** [[paper]](https://wanyu-lin.github.io/assets/publications/wanyu-cvpr2022.pdf)
 39. [CVPR 22] **Improving Subgraph Recognition with Variational Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2112.09899)
-40. [HAL 22] **On GNN explanability with activation patterns**  [[paper]](https://hal.archives-ouvertes.fr/hal-03367714/file/hal.pdf)
+40. [DMKD 22] **On GNN explanability with activation patterns**  [[paper]](https://hal.archives-ouvertes.fr/hal-03367714/file/hal.pdf)
 41. [Arxiv 22] **Explainability in Graph Neural Networks: An Experimental Survey** [[paper]](https://arxiv.org/abs/2203.09258)
 42. [Arxiv 22] **Explainability and Graph Learning from Social Interactions** [[paper]](https://arxiv.org/pdf/2203.07494.pdf)
 43. [AISTATS 22] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods** [[paper]](https://arxiv.org/abs/2106.09078)
