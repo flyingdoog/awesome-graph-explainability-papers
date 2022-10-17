@@ -19,7 +19,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [GLB 22] **An Explainable AI Library for Benchmarking Graph Explainers** [[paper]](https://graph-learning-benchmarks.github.io/assets/papers/glb2022/An_Explainable_AI_Library_for_Benchmarking_Graph_Explainers.pdf)
+1. [CIKM 22] **A Model-Centric Explainer for Graph Neural Network based Node Classification** [[paper]](https://dl.acm.org/doi/10.1145/3511808.3557535)
+2. [GLB 22] **An Explainable AI Library for Benchmarking Graph Explainers** [[paper]](https://graph-learning-benchmarks.github.io/assets/papers/glb2022/An_Explainable_AI_Library_for_Benchmarking_Graph_Explainers.pdf)
 2. [Openreview 23] **MEGAN: Multi Explanation Graph Attention Network** [[paper]](https://openreview.net/forum?id=H6LVUiHzYDE)
 2. [Openreview 23] **Explaining Temporal Graph Models through an Explorer-Navigator Framework** [[paper]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
 2. [Openreview 23] **TGP: Explainable Temporal Graph Neural Networks for Personalized Recommendation** [[paper]](https://openreview.net/forum?id=EGobBwPc1J-)
