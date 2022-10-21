@@ -5,6 +5,7 @@ Papers about explainability of GNNs
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
 2. **A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
 3. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/pdf/2205.07424.pdf)
+4. **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
 
 ### Most Influential Papers selected by [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
@@ -20,7 +21,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [NeurIPS 22] **CLEAR: Generative Counterfactual Explanations on Graphs**[[paper]](https://arxiv.org/abs/2210.08443)
+1. [Arxiv 22] **Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation** [[paper]](https://arxiv.org/abs/2210.11094)
+2. [NeurIPS 22] **CLEAR: Generative Counterfactual Explanations on Graphs**[[paper]](https://arxiv.org/abs/2210.08443)
 2. [CIKM 22] **A Model-Centric Explainer for Graph Neural Network based Node Classification** [[paper]](https://dl.acm.org/doi/10.1145/3511808.3557535)
 3. [GLB 22] **An Explainable AI Library for Benchmarking Graph Explainers** [[paper]](https://graph-learning-benchmarks.github.io/assets/papers/glb2022/An_Explainable_AI_Library_for_Benchmarking_Graph_Explainers.pdf)
 4. [Openreview 23] **MEGAN: Multi Explanation Graph Attention Network** [[paper]](https://openreview.net/forum?id=H6LVUiHzYDE)
