@@ -7,6 +7,12 @@ Papers about explainability of GNNs
 3. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/pdf/2205.07424.pdf)
 4. **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
 
+### Platforms
+1. **GraphXAI: Evaluating Explainability for Graph Neural Networks** [paper](https://arxiv.org/pdf/2207.12599.pdf) [Code](https://github.com/mims-harvard/graphxai)
+2. **DIG: A Turnkey Library for Diving into Graph Deep Learning Research** [paper](https://www.jmlr.org/papers/v22/21-0343.html) [Code](https://github.com/divelab/DIG)
+3. **GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [paper](https://arxiv.org/abs/2206.09677) [Code](https://github.com/graphframex/graphframex)
+4. **GNNExplainer and PGExplainer** [paper](https://openreview.net/forum?id=8JHrucviUf) [Code](https://github.com/LarsHoldijk/RE-ParameterizedExplainerForGraphNeuralNetworks)
+
 ### Most Influential Papers selected by [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
 2. **Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [code](https://github.com/RexYing/gnn-model-explainer)
