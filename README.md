@@ -27,7 +27,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [Arxiv 22] **Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation** [[paper]](https://arxiv.org/abs/2210.11094)
+1. [Arxiv 22] **Global Counterfactual Explainer for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.11695)
+2. [Arxiv 22] **Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation** [[paper]](https://arxiv.org/abs/2210.11094)
 2. [NeurIPS 22] **CLEAR: Generative Counterfactual Explanations on Graphs**[[paper]](https://arxiv.org/abs/2210.08443)
 2. [CIKM 22] **A Model-Centric Explainer for Graph Neural Network based Node Classification** [[paper]](https://dl.acm.org/doi/10.1145/3511808.3557535)
 3. [GLB 22] **An Explainable AI Library for Benchmarking Graph Explainers** [[paper]](https://graph-learning-benchmarks.github.io/assets/papers/glb2022/An_Explainable_AI_Library_for_Benchmarking_Graph_Explainers.pdf)
