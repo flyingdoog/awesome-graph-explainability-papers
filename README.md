@@ -7,6 +7,7 @@ Papers about explainability of GNNs
 3. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/pdf/2205.07424.pdf)
 4. **A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation**  [[paper]](https://arxiv.org/abs/2210.12089)
 5. **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
+6. **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
 
 ### Platforms
 1. **GraphXAI: Evaluating Explainability for Graph Neural Networks** [paper](https://arxiv.org/pdf/2207.12599.pdf) [Code](https://github.com/mims-harvard/graphxai)
