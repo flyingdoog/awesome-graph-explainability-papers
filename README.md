@@ -29,7 +29,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [Arxiv 22] **Interpretable Geometric Deep Learning via Learnable Randomness Injection** [[paper]](https://arxiv.org/pdf/2210.16966.pdf)
+1. [Arxiv 22] **PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.17159)
+2. [Arxiv 22] **Interpretable Geometric Deep Learning via Learnable Randomness Injection** [[paper]](https://arxiv.org/abs/2210.16966)
 2. [Arxiv 22] **A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation**  [[paper]](https://arxiv.org/abs/2210.12089)
 2. [Arxiv 22] **GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations**  [[paper]](https://arxiv.org/abs/2208.04222)
 3. [NeurIPS 22] **Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure** [[paper]](https://arxiv.org/abs/2209.14107)
