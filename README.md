@@ -29,7 +29,7 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [Arxiv 22] **ConveXplainer for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_41)
+1. [BRACIS 22] **ConveXplainer for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_41)
 2. [Arxiv 22] **Exploring Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2211.01770)
 2. [ICDE 23] **INGREX: An Interactive Explanation Framework for Graph Neural Networks**[[paper]](https://arxiv.org/pdf/2211.01548.pdf)
 2. [Arxiv 22] **PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.17159)
