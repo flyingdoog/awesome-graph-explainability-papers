@@ -77,7 +77,7 @@ Papers about explainability of GNNs
 40. [MICCAI 22] **Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis** [[paper]](https://arxiv.org/abs/2207.00813)
 41. [IEEE 22] **Explaining Graph Neural Networks With Topology-Aware Node Selection: Application in Air Quality Inference**  [[paper]](https://ieeexplore.ieee.org/document/9801665)
 42. [EuroS&P 22] **Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9797387?casa_token=1AvRK3S4eJQAAAAA:8PXcOA8iU1ketRMdu6YVMBMcfZKjF7MIVujPpHTpjdc2O9r1cvUg8usfRiOYZ5Fe-MKJi4Y)
-43. [ArXiv 22]**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.09677)
+43. [LOG 22]**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.09677)
 44. [ArXiv 22]**On Consistency in Graph Neural Network Interpretation** [[paper]](https://arxiv.org/abs/2205.13733)
 45. [AISTATS 22] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
 46. [AAAI 2022] **Prototype-Based Explanations for Graph Neural Networks** [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
