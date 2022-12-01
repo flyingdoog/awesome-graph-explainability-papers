@@ -50,7 +50,7 @@ Papers about explainability of GNNs
 13. [Openreview 23] **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=jgmuRzM-sb6)
 14. [Openreview 23] **On Regularization for Explaining Graph Neural Networks: An Information Theory Perspective** [[paper]](https://openreview.net/forum?id=5rX7M4wa2R_)
 15. [Openreview 23] **A Differential Geometric View and Explainability of GNN on Evolving Graphs** [[paper]](https://openreview.net/forum?id=lRdhvzMpVYV)
-16. [Openreview 23] **Global Explainability of GNNs via Logic Combination of Learned Concepts** [[paper]](https://openreview.net/forum?id=OTbRTIY4YS)
+16. [LOG 22] **Global Explainability of GNNs via Logic Combination of Learned Concepts** [[paper]](https://openreview.net/forum?id=OTbRTIY4YS)
 17. [MICCAI] **Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer’s Disease** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_45)
 18. [Arxiv 22] **Learning to Explain Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.14402.pdf)
 19. [Arxiv 22] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2210.01974)
