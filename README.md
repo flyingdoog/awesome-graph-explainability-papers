@@ -29,7 +29,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/pdf/2211.16731.pdf)
+1. [CIKM 22] **GRETEL: Graph Counterfactual Explanation Evaluation Framework**[[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557608)
+2. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/pdf/2211.16731.pdf)
 2. [AAAI23] **On the Limit of Explaining Black-box Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2212.00952)
 2. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/abs/2211.16731)
 2. [BRACIS 22] **ConveXplainer for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_41)
