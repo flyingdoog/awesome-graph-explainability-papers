@@ -29,7 +29,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [AI 22] **Are Graph Neural Network Explainers Robust to Graph Noises?** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_12)
+1. [Arxiv 22] **Explaining Link Predictions in Knowledge Graph Embedding Models with Influential Examples**
+2. [AI 22] **Are Graph Neural Network Explainers Robust to Graph Noises?** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_12)
 2. [TAI 22] **Prototype-based Interpretable Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/9953541)
 3. [CIKM 22] **GRETEL: Graph Counterfactual Explanation Evaluation Framework**[[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557608)
 4. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/pdf/2211.16731.pdf)
