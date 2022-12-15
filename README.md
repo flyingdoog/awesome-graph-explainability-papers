@@ -29,7 +29,8 @@ Papers about explainability of GNNs
 
 
 ### Year 2022
-1. [XKDD 22] **Improving the quality of rule-based GNN explanations** [[paper]] (https://kdd.isti.cnr.it/xkdd2022/papers/XKDD_2022_paper_2436.pdf)
+1. [Arxiv 22] **On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach** [[paper]] (https://arxiv.org/abs/2212.07056)
+2. [XKDD 22] **Improving the quality of rule-based GNN explanations** [[paper]] (https://kdd.isti.cnr.it/xkdd2022/papers/XKDD_2022_paper_2436.pdf)
 2. [Arxiv 22] **Differentially Private Graph Neural Networks for Whole-Graph Classification** [[paper]] (https://arxiv.org/abs/2212.03806)
 3. [Arxiv 22] **Explaining Link Predictions in Knowledge Graph Embedding Models with Influential Examples** [[paper]](https://arxiv.org/abs/2212.02651)
 4. [AI 22] **Are Graph Neural Network Explainers Robust to Graph Noises?** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_12)
