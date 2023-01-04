@@ -27,9 +27,14 @@ Papers about explainability of GNNs
 9. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Lu, Yi-Ju and Li, Cheng-Te*. ACL 2020.[paper](https://arxiv.org/pdf/2004.11648.pdf)
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
+### Year 2023
+1. [ICDE 23] **INGREX: An Interactive Explanation Framework for Graph Neural Networks**[[paper]](https://arxiv.org/pdf/2211.01548.pdf)
+2. [WSDM 23]**Towards Faithful and Consistent Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2205.13733)
 
 ### Year 2022
-1. [Briefings in Bioinformatics] **Predicting molecular properties based on the interpretable graph neural network with multistep focus mechanism** [[paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac534/6918752)
+1. [TNNLS 22] **Interpretable Graph Reservoir Computing With the Temporal Pattern Attention**  [[paper]](https://ieeexplore.ieee.org/abstract/document/10003110/?casa_token=ALnkauQ1azwAAAAA:hcJQRLmUW4wLMt318EnshZD7yv7zaatcwp-Q9OSJdAyaBTgYd_Zx_43slB1e_oGb4v8kahAV)
+2. [Briefings in Bioinformatics] **Predicting molecular properties based on the interpretable graph neural network with multistep focus mechanism** [[paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac534/6918752)
+2. [Arxiv 22] **GANExplainer: GAN-based Graph Neural Networks Explainer**  [[paper]](https://arxiv.org/abs/2301.00012)
 2. [Arxiv 22] **On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach** [[paper]](https://arxiv.org/abs/2212.07056)
 2. [XKDD 22] **Improving the quality of rule-based GNN explanations** [[paper]](https://kdd.isti.cnr.it/xkdd2022/papers/XKDD_2022_paper_2436.pdf)
 2. [Arxiv 22] **Differentially Private Graph Neural Networks for Whole-Graph Classification** [[paper]](https://arxiv.org/abs/2212.03806)
@@ -42,7 +47,6 @@ Papers about explainability of GNNs
 9. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/abs/2211.16731)
 10. [BRACIS 22] **ConveXplainer for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_41)
 11. [Arxiv 22] **Exploring Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2211.01770)
-12. [ICDE 23] **INGREX: An Interactive Explanation Framework for Graph Neural Networks**[[paper]](https://arxiv.org/pdf/2211.01548.pdf)
 13. [Arxiv 22] **PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.17159)
 14. [Arxiv 22] **Interpretable Geometric Deep Learning via Learnable Randomness Injection** [[paper]](https://arxiv.org/abs/2210.16966)
 15. [Arxiv 22] **A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation**  [[paper]](https://arxiv.org/abs/2210.12089)
@@ -88,7 +92,6 @@ Papers about explainability of GNNs
 55. [IEEE 22] **Explaining Graph Neural Networks With Topology-Aware Node Selection: Application in Air Quality Inference**  [[paper]](https://ieeexplore.ieee.org/document/9801665)
 56. [EuroS&P 22] **Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9797387?casa_token=1AvRK3S4eJQAAAAA:8PXcOA8iU1ketRMdu6YVMBMcfZKjF7MIVujPpHTpjdc2O9r1cvUg8usfRiOYZ5Fe-MKJi4Y)
 57. [LOG 22]**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.09677)
-58. [ArXiv 22]**On Consistency in Graph Neural Network Interpretation** [[paper]](https://arxiv.org/abs/2205.13733)
 59. [AISTATS 22] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**  [[paper]](https://arxiv.org/abs/2102.03322)
 60. [AAAI 2022] **Prototype-Based Explanations for Graph Neural Networks** [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 61. [ISBI 22] **Interpretable Graph Convolutional Network Of Multi-Modality Brain Imaging For Alzheimer’s Disease Diagnosis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9761449?casa_token=w3IlSZNlKwcAAAAA:Xvh04eK29bZtbkRq5Eg3jUZURS3qs1k3AA1bhnnN2kKWmIjBnh7alAiy98zBgsHFtvFQqV0IYA)
