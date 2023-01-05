@@ -30,6 +30,7 @@ Papers about explainability of GNNs
 ### Year 2023
 1. [ICDE 23] **INGREX: An Interactive Explanation Framework for Graph Neural Networks**[[paper]](https://arxiv.org/pdf/2211.01548.pdf)
 2. [WSDM 23]**Towards Faithful and Consistent Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2205.13733)
+3. [Arxiv 23] **CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis** [[paper]](https://arxiv.org/abs/2301.01642)
 
 ### Year 2022
 1. [TNNLS 22] **Interpretable Graph Reservoir Computing With the Temporal Pattern Attention**  [[paper]](https://ieeexplore.ieee.org/abstract/document/10003110/?casa_token=ALnkauQ1azwAAAAA:hcJQRLmUW4wLMt318EnshZD7yv7zaatcwp-Q9OSJdAyaBTgYd_Zx_43slB1e_oGb4v8kahAV)
