@@ -202,5 +202,6 @@ Papers about explainability of GNNs
 15. [Arxiv 20] **Understanding the Message Passing in Graph Neural Networks via Power Iteration** [[paper]](https://arxiv.org/pdf/2006.00144.pdf)
 16. [Arxiv 20] **xERTE: Explainable Reasoning on Temporal Knowledge Graphs for Forecasting Future Links**  [[paper]](https://arxiv.org/pdf/2006.00144.pdf)
 17. [IJCNN 20] **GCN-LRP explanation: exploring latent attention of graph convolutional networks**] [[paper]](https://ieeexplore.ieee.org/abstract/document/9207639)
+18. [Arxiv 20] **Explain Graph Neural Networks to Understand Weighted Graph Features in Node Classification**] [[paper]](https://arxiv.org/abs/2002.00514) 
 
 
