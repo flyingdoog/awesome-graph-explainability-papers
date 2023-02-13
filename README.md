@@ -138,7 +138,8 @@ Papers about explainability of GNNs
 
 ### Year 2021
 1. [Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
-2. [IJCKG2021] **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** [[paper]](https://arxiv.org/abs/2112.08589)
+2. [Genome medicine 21] **Explaining decisions of Graph Convolutional Neural Networks: patient-specific molecular subnetworks responsible for metastasis prediction in breast cancer** [[paper]](https://www.semanticscholar.org/paper/Explaining-decisions-of-Graph-Convolutional-Neural-Chereda-Bleckmann/49a4e339182b2b304304c8837b09ce3e0951a616)
+3. [IJCKG2021] **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** [[paper]](https://arxiv.org/abs/2112.08589)
 4. [Arxiv 21] **Combining Sub-Symbolic and Symbolic Methods for Explainability** [[paper]](https://arxiv.org/abs/2112.01844)
 5. [PAKDD 21] **SCARLET: Explainable Attention based Graph Neural Network for Fake News spreader prediction** [[paper]](https://arxiv.org/abs/2102.04627)
 6. [J. Chem. Inf. Model] **Coloring Molecules with Explainable Artificial Intelligence for Preclinical Relevance Assessment** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01344)
@@ -200,11 +201,10 @@ Papers about explainability of GNNs
 9. [Arxiv 2020] **Graph Neural Networks Including Sparse Interpretability** [[paper]](https://arxiv.org/pdf/2007.00119.pdf)
 10. [OpenReview 20] **A Framework For Differentiable Discovery Of Graph Algorithms** [[paper]](https://openreview.net/pdf?id=ueiBFzt7CiK)
 11. [OpenReview 20] **Causal Screening to Interpret Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
-13. [Arxiv 20] **Explaining decisions of Graph Convolutional Neural Networks: patient-specific molecular subnetworks responsible for metastasis prediction in breast cancer** [[paper]](https://www.semanticscholar.org/paper/Explaining-decisions-of-Graph-Convolutional-Neural-Chereda-Bleckmann/49a4e339182b2b304304c8837b09ce3e0951a616)
 14. [Arxiv 20] **Understanding Graph Neural Networks from Graph Signal Denoising Perspectives** [[paper]](https://arxiv.org/pdf/2006.04386.pdf)
 15. [Arxiv 20] **Understanding the Message Passing in Graph Neural Networks via Power Iteration** [[paper]](https://arxiv.org/pdf/2006.00144.pdf)
 16. [Arxiv 20] **xERTE: Explainable Reasoning on Temporal Knowledge Graphs for Forecasting Future Links**  [[paper]](https://arxiv.org/pdf/2006.00144.pdf)
 17. [IJCNN 20] **GCN-LRP explanation: exploring latent attention of graph convolutional networks**] [[paper]](https://ieeexplore.ieee.org/abstract/document/9207639)
-18. [Arxiv 20] **Explain Graph Neural Networks to Understand Weighted Graph Features in Node Classification**] [[paper]](https://arxiv.org/abs/2002.00514) 
+18. [CD-MAKE 20] **Explain Graph Neural Networks to Understand Weighted Graph Features in Node Classification**] [[paper]](https://arxiv.org/abs/2002.00514) 
 
 
