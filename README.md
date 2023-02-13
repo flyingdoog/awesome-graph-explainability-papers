@@ -38,8 +38,9 @@ Papers about explainability of GNNs
 8. [ICDE 23] **Jointly Attacking Graph Neural Network and its Explanations** [[paper]](https://arxiv.org/pdf/2108.03388.pdf)
 9. [WSDM 23]**Towards Faithful and Consistent Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2205.13733)
 10. [WSDM 23] **Global Counterfactual Explainer for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.11695)
-11. [Arxiv 23] **CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis** [[paper]](https://arxiv.org/abs/2301.01642)
-12. [Arxiv 23] **Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment** [[paper]](https://arxiv.org/abs/2301.02791)
+11. [AAAI23] **On the Limit of Explaining Black-box Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2212.00952)
+12. [Arxiv 23] **CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis** [[paper]](https://arxiv.org/abs/2301.01642)
+13. [Arxiv 23] **Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment** [[paper]](https://arxiv.org/abs/2301.02791)
 
 ### Year 2022
 1. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
@@ -64,7 +65,6 @@ Papers about explainability of GNNs
 20. [TAI 22] **Prototype-based Interpretable Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/9953541)
 21. [CIKM 22] **GRETEL: Graph Counterfactual Explanation Evaluation Framework**[[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557608)
 22. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/pdf/2211.16731.pdf)
-23. [AAAI23] **On the Limit of Explaining Black-box Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2212.00952)
 24. [LOG 22] **Towards Training GNNs using Explanation Directed Message Passing** [[paper]](https://arxiv.org/abs/2211.16731)
 25. [BRACIS 22] **ConveXplainer for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_41)
 26. [Arxiv 22] **Exploring Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2211.01770)
