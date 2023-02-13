@@ -36,7 +36,8 @@ Papers about explainability of GNNs
 4. [Arxiv 23] **Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment** [[paper]](https://arxiv.org/abs/2301.02791)
 
 ### Year 2022
-1. [TNNLS 22] **Interpretable Graph Reservoir Computing With the Temporal Pattern Attention**  [[paper]](https://ieeexplore.ieee.org/abstract/document/10003110/?casa_token=ALnkauQ1azwAAAAA:hcJQRLmUW4wLMt318EnshZD7yv7zaatcwp-Q9OSJdAyaBTgYd_Zx_43slB1e_oGb4v8kahAV)
+1. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
+2. [TNNLS 22] **Interpretable Graph Reservoir Computing With the Temporal Pattern Attention**  [[paper]](https://ieeexplore.ieee.org/abstract/document/10003110/?casa_token=ALnkauQ1azwAAAAA:hcJQRLmUW4wLMt318EnshZD7yv7zaatcwp-Q9OSJdAyaBTgYd_Zx_43slB1e_oGb4v8kahAV)
 2. [Briefings in Bioinformatics] **Predicting molecular properties based on the interpretable graph neural network with multistep focus mechanism** [[paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac534/6918752)
 2. [Arxiv 22] **GANExplainer: GAN-based Graph Neural Networks Explainer**  [[paper]](https://arxiv.org/abs/2301.00012)
 2. [Arxiv 22] **On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach** [[paper]](https://arxiv.org/abs/2212.07056)
@@ -119,7 +120,6 @@ Papers about explainability of GNNs
 79. [KBS 22] **EGNN: Constructing explainable graph neural networks via knowledge distillation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001289?via%3Dihub)
 80. [AAAI22] **ProtGNN: Towards Self-Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.00911)
 81. [ICML 22] **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** [[paper]](https://arxiv.org/abs/2201.12987v1)
-82. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
 83. [OpenReview 21] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
 84. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
 85. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
