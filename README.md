@@ -41,6 +41,7 @@ Papers about explainability of GNNs
 11. [AAAI23] **On the Limit of Explaining Black-box Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2212.00952)
 12. [Arxiv 23] **CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis** [[paper]](https://arxiv.org/abs/2301.01642)
 13. [Arxiv 23] **Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment** [[paper]](https://arxiv.org/abs/2301.02791)
+14. [Arxiv 23] **Structural Explanations for Graph Neural Networks using HSIC** [[paper]](https://arxiv.org/abs/2302.02139)
 
 ### Year 2022
 1. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
@@ -103,6 +104,7 @@ Papers about explainability of GNNs
 59. [TNNLS 22] **Explaining Deep Graph Networks via Input Perturbation** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35446771/)
 60. [TNNLS 21] **A Meta-Learning Approach for Training Explainable Graph Neural Network** [[paper]](https://arxiv.org/pdf/2109.09426.pdf)
 61. [MICCAI 22] **Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis** [[paper]](https://arxiv.org/abs/2207.00813)
+62. [IEEE Access 22] **Providing Post-Hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions** [[paper]](https://ieeexplore.ieee.org/abstract/document/10003193)
 62. [IEEE 22] **Explaining Graph Neural Networks With Topology-Aware Node Selection: Application in Air Quality Inference**  [[paper]](https://ieeexplore.ieee.org/document/9801665)
 63. [EuroS&P 22] **Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9797387?casa_token=1AvRK3S4eJQAAAAA:8PXcOA8iU1ketRMdu6YVMBMcfZKjF7MIVujPpHTpjdc2O9r1cvUg8usfRiOYZ5Fe-MKJi4Y)
 64. [LOG 22]**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.09677)
