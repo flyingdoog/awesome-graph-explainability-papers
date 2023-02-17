@@ -37,6 +37,7 @@ Papers about explainability of GNNs
 9. [ICDE 23] **Jointly Attacking Graph Neural Network and its Explanations** [[paper]](https://arxiv.org/pdf/2108.03388.pdf)
 10. [WSDM 23]**Towards Faithful and Consistent Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2205.13733)
 11. [WSDM 23] **Global Counterfactual Explainer for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2210.11695)
+12. [AAAI 23] **Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis** [[paper]](https://arxiv.org/abs/2208.10609)
 12. [AAAI23] **On the Limit of Explaining Black-box Temporal Graph Neural Networks** [[paper]](https://arxiv.org/abs/2212.00952)
 2. [Automation in Construction 23] **Learning from explainable data-driven tunneling graphs: A spatio-temporal graph convolutional network for clogging detection** [[paper]](https://www.sciencedirect.com/science/article/pii/S0926580523000018)
 13. [Briefings in Bioinformatics] **Predicting molecular properties based on the interpretable graph neural network with multistep focus mechanism** [[paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac534/6918752)
