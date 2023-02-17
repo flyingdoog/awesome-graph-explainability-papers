@@ -30,7 +30,8 @@ Papers about explainability of GNNs
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
 ### Year 2023
-1. [ICLR 23] **Explaining Temporal Graph Models through an Explorer-Navigator Framework** [[paper]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
+1. [ICLR 23] **GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.07924.pdf)
+2. [ICLR 23] **Explaining Temporal Graph Models through an Explorer-Navigator Framework** [[paper]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
 2. [ICLR 23] **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=jgmuRzM-sb6)
 3. [ICLR 23] **Interpretable Geometric Deep Learning via Learnable Randomness Injection** [[paper]](https://arxiv.org/abs/2210.16966)
 4. [ICLR 23] **A Differential Geometric View and Explainability of GNN on Evolving Graphs** [[paper]](https://openreview.net/forum?id=lRdhvzMpVYV)
@@ -91,7 +92,6 @@ Papers about explainability of GNNs
 40. [Arxiv 22] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2210.01974)
 41. [Arxiv 22] **PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes** [[paper]](https://arxiv.org/abs/2208.03075)
 42. [Bioinformatics] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii120/6702000?login=false)
-43. [Arxiv 22] **GGNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.07924.pdf)
 44. [Arxiv 22] **Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis** [[paper]](https://arxiv.org/pdf/2208.10609.pdf)
 45. [Arxiv 22] **Explainability in subgraphs-enhanced Graph Neural Networks** [[paper]]([https://arxiv.org/abs/2209.07926])
 46. [Arxiv 22] **Defending Against Backdoor Attack on Graph Nerual Network by Explainability** [[paper]](https://arxiv.org/pdf/2209.02902.pdf)
