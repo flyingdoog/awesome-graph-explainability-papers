@@ -13,7 +13,7 @@ Papers about explainability of GNNs
 ### Platforms
 1. **PyTorch Geometric** [[Document]](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/explain.html) [[Blog]](https://medium.com/@pytorch_geometric/graph-machine-learning-explainability-with-pyg-ff13cffc23c2)
 2. **DIG: A Turnkey Library for Diving into Graph Deep Learning Research** [paper](https://www.jmlr.org/papers/v22/21-0343.html) [Code](https://github.com/divelab/DIG)
-2. **GraphXAI: Evaluating Explainability for Graph Neural Networks** [paper](https://arxiv.org/pdf/2207.12599.pdf) [Code](https://github.com/mims-harvard/graphxai)
+2. **GraphXAI: Evaluating Explainability for Graph Neural Networks** [paper](https://arxiv.org/abs/2208.09339v2) [Code](https://github.com/mims-harvard/graphxai)
 3. **GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks** [paper](https://arxiv.org/abs/2206.09677) [Code](https://github.com/graphframex/graphframex)
 4. **GNNExplainer and PGExplainer** [paper](https://openreview.net/forum?id=8JHrucviUf) [Code](https://github.com/LarsHoldijk/RE-ParameterizedExplainerForGraphNeuralNetworks)
 5. **BAGEL: A Benchmark for Assessing Graph Neural Network Explanations** [[paper]](https://arxiv.org/abs/2206.13983)[Code](https://github.com/mandeep-rathee/bagel-benchmark)
