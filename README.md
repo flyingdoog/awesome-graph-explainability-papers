@@ -67,6 +67,7 @@ Papers about explainability of GNNs
 7. [ICLR 22] **Explainable GNN-Based Models over Knowledge Graphs** [[paper]](https://openreview.net/attachment?id=CrCvGNHAIrz&name=pdf)
 8. [ICLR 22] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.12872)
 9. [KDD 22] **On Structural Explanation of Bias in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2206.12104)
+10. [KDD 22] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://arxiv.org/abs/2112.15089)
 10. [CVPR 22] **OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks** [[paper]](https://wanyu-lin.github.io/assets/publications/wanyu-cvpr2022.pdf)
 81. [CVPR 22] **Improving Subgraph Recognition with Variational Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2112.09899)
 12. [AISTATS 22] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods** [[paper]](https://arxiv.org/abs/2106.09078)
