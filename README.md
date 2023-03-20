@@ -32,6 +32,7 @@ Papers about explainability of GNNs
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
 ### Year 2023
+1. [Arxiv 23] **Distill n' Explain: explaining graph neural networks using simple surrogates** [[Paper]](https://arxiv.org/abs/2303.10139)
 1. [ICLR 23] **GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.07924.pdf)
 2. [ICLR 23] **Global Explainability of GNNs via Logic Combination of Learned Concepts** [[paper]](https://openreview.net/forum?id=OTbRTIY4YS)
 3. [ICLR 23] **Explaining Temporal Graph Models through an Explorer-Navigator Framework** [[paper]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
