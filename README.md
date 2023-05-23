@@ -32,7 +32,8 @@ Papers about explainability of GNNs
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
 ### Year 2023
-1. [Openreview 23] **Revisiting CounteRGAN for Counterfactual Explainability of Graphs** [[paper]] (https://openreview.net/forum?id=d0m0Rl15q3g)
+1. [Arxiv 23] **Self-Explainable Graph Neural Networks for Link Prediction**  [[paper]] (https://arxiv.org/abs/2305.12578)
+2. [Openreview 23] **Revisiting CounteRGAN for Counterfactual Explainability of Graphs** [[paper]] (https://openreview.net/forum?id=d0m0Rl15q3g)
 3. [Scientific Data 23 ] **Evaluating explainability for graph neural networks** [[paper]](https://www.nature.com/articles/s41597-023-01974-x)
 4. [ChemRxiv 23] **Interpreting Graph Neural Networks with Myerson Values for Cheminformatics Approaches** [[paper]] (https://chemrxiv.org/engage/chemrxiv/article-details/6456c89707c3f0293753101d)
 5. [Nature Communications 23] **Chemistry-intuitive explanation of graph neural networks for molecular property prediction with substructure masking** [[paper]] (https://www.nature.com/articles/s41467-023-38192-3)
