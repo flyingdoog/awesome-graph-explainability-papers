@@ -11,3 +11,6 @@
 10. [KDD 2021] **Counterfactual Graphs for Explainable Classification of Brain Networks** [[paper]](https://arxiv.org/abs/2106.08640)
 11. [ICML workshop 21] **BrainNNExplainer: An Interpretable Graph Neural Network Framework for Brain Network based Disease Analysis** [[paper]](https://arxiv.org/abs/2107.05097)
 12. [Arxiv 21] IA-GCN: Interpretable Attention based Graph Convolutional Network for Disease prediction [paper]
+
+## Counterfactual 
+1. [Arxiv 23] **Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity** [[paper]](https://arxiv.org/pdf/2306.04835.pdf)
