@@ -1,5 +1,5 @@
 ## Health Informatics
-1.[Bioengineering 2023] **Personalized Explanations for Early Diagnosis of Alzheimer's Disease Using Explainable Graph Neural Networks with Population Graphs** [[paper]](https://www.mdpi.com/2306-5354/10/6/701)
+1. [Bioengineering 2023] **Personalized Explanations for Early Diagnosis of Alzheimer's Disease Using Explainable Graph Neural Networks with Population Graphs** [[paper]](https://www.mdpi.com/2306-5354/10/6/701)
 2. [Arixv 23] Explainable Multilayer Graph Neural Network for Cancer Gene Prediction [paper]
 3. [Arxiv 23] **CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis** [[paper]](https://arxiv.org/abs/2301.01642)
 4. [MICCAI 22] **Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis** [[paper]](https://arxiv.org/abs/2207.00813)
