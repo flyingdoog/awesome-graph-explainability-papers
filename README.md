@@ -38,7 +38,7 @@ Papers about the explainability of GNNs
 3. [Arxiv 23] **TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support** [[paper]](https://arxiv.org/pdf/2306.13339.pdf)
 4. [Arxiv 23] **Graph Neural Network based Log Anomaly Detection and Explanation** [[paper]](https://arxiv.org/abs/2307.00527)
 5. [Arxiv 23] **Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features** [[paper]](https://arxiv.org/abs/2306.00934)
-6. [Thesis 23] **Interpretability of Graphical Models** [https://search.proquest.com/openview/1e61b389a59936e319974be0e3fd1af5/1?pq-origsite=gscholar&cbl=18750&diss=y&casa_token=C9nV5jxJYI8AAAAA:JOFDxmahcpJaxvKbdxeAOjhWqckVL1c2yi-p671HIOilMIovvrF0t9CJns5a7Is1TfwSv2TD7Q]
+6. [Thesis 23] **Interpretability of Graphical Models** [[paper]](https://search.proquest.com/openview/1e61b389a59936e319974be0e3fd1af5/1?pq-origsite=gscholar&cbl=18750&diss=y&casa_token=C9nV5jxJYI8AAAAA:JOFDxmahcpJaxvKbdxeAOjhWqckVL1c2yi-p671HIOilMIovvrF0t9CJns5a7Is1TfwSv2TD7Q)
 7. [Preprint 23] **Interpretable Graph Networks Formulate Universal Algebra Conjectures** [[paper]](https://www.researchgate.net/profile/Pietro-Barbiero/publication/371280396_Interpretable_Graph_Networks_Formulate_Universal_Algebra_Conjectures/links/647c590479a72237650d9ced/Interpretable-Graph-Networks-Formulate-Universal-Algebra-Conjectures.pdf)
 8. [Bioengineering 2023] **Personalized Explanations for Early Diagnosis of Alzheimer's Disease Using Explainable Graph Neural Networks with Population Graphs** [[paper]](https://www.mdpi.com/2306-5354/10/6/701)
 9. [BDSC 2023] **MDC: An Interpretable GNNs Method Based on Node Motif Degree and Graph Diffusion Convolution** [[paper]] (https://link.springer.com/chapter/10.1007/978-981-99-3925-1_24)
