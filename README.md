@@ -34,6 +34,21 @@ Papers about the explainability of GNNs
 9. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Lu, Yi-Ju and Li, Cheng-Te*. ACL 2020.[paper](https://arxiv.org/pdf/2004.11648.pdf)
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
+### Year 2024
+1. [Openreview 23] **STExplainer: Global Explainability of GNNs via Frequent SubTree Mining** [[paper]](https://openreview.net/forum?id=HgSfV6sGIn)
+2. [Openreview 23] **Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts** [[paper]](https://openreview.net/forum?id=wrqAn3AJA1)
+3. [Openreview 23] **GraphChef: Decision-Tree Recipes to Explain Graph Neural Networks** [[paper]](https://openreview.net/forum?id=IjMUGuUmBI)
+4. [Openreview 23] **Iterative Graph Neural Network Enhancement Using Explanations** [[paper]](https://openreview.net/forum?id=qp0oVaFGm0)
+5. [Openreview 23] **Interpretable and Generalizable Graph Neural Networks via Subgraph Multilinear Extension** [[paper]](https://openreview.net/forum?id=dVq2StlcnY)
+6. [Openreview 23] **Interpretable and Convergent Graph Neural Network Layers at Scale** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
+7. [Openreview 23] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
+8. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
+9. [openreview 23] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
+
+
+
+
+
 ### Year 2023
 1. [KDD 23] **MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation** [[paper]](https://arxiv.org/abs/2307.07832)
 2. [KDD 23] **Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation** [[paper]](https://repository.kaust.edu.sa/handle/10754/693484)
