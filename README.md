@@ -7,11 +7,10 @@ Papers about the explainability of GNNs
 3. [TPAMI 22]**Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. [paper](https://arxiv.org/pdf/2012.15445.pdf)
 4. [Arxiv 22]**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
 5. [Arxiv 22] **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/pdf/2205.07424.pdf)
-6. [Arxiv 22]**A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation** [[paper]](https://arxiv.org/abs/2210.12089)
-7. [Arxiv 22] **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
-8. [Big Data 2022]**A Survey of Explainable Graph Neural Networks for Cyber Malware Analysis** [paper](https://ieeexplore.ieee.org/abstract/document/10020943)
-9. [Arxiv 22] **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
-10. [Book 23] **Generative Explanation for Graph Neural Network: Methods and Evaluation** [paper](http://sites.computer.org/debull/A23june/p64.pdf)
+6. [Arxiv 22] **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
+7. [Big Data 2022]**A Survey of Explainable Graph Neural Networks for Cyber Malware Analysis** [paper](https://ieeexplore.ieee.org/abstract/document/10020943)
+8. [Arxiv 22] **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
+9. [Book 23] **Generative Explanation for Graph Neural Network: Methods and Evaluation** [paper](http://sites.computer.org/debull/A23june/p64.pdf)
 
 ### Platforms
 1. **PyTorch Geometric** [[Document]](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/explain.html) [[Blog]](https://medium.com/@pytorch_geometric/graph-machine-learning-explainability-with-pyg-ff13cffc23c2)
