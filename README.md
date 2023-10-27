@@ -43,6 +43,7 @@ Papers about the explainability of GNNs
 7. [Openreview 23] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
 8. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
 9. [openreview 23] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
+10. [WSDM 24] **DyExplainer: Explainable Dynamic Graph Neural Networks** [[paper]](https://arxiv.org/abs/2310.16375)
 
 
 
