@@ -53,7 +53,7 @@ Papers about the explainability of GNNs
 1. [NeurIPS 23] **Interpretable Graph Networks Formulate Universal Algebra Conjectures**[[paper]](https://nips.cc/virtual/2023/poster/71732)
 2. [NeurIPS 23] **SAME: Uncovering GNN Black Box with Structure-aware Shapley-based Multipiece Explanation** [[paper]](https://www.researchgate.net/publication/374849556_SAME_Uncovering_GNN_Black_Box_with_Structure-aware_Shapley-based_Multipiece_Explanation)
 3. [NeurIPS 23] **D4Explainer: In-distribution Explanations of Graph Neural Network via Discrete Denoising Diffusion** [[paper]](https://arxiv.org/abs/2310.19321)
-4. [NeurIPS 23] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [[paper]](https://nips.cc/virtual/2023/poster/72760)
+4. [NeurIPS 23] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [[paper]](https://arxiv.org/abs/2310.19324)
 5. [NeurIPS 23] **V-InFoR: A Robust Graph Neural Networks Explainer for Structurally Corrupted Graphs** [[paper]](https://nips.cc/virtual/2023/poster/72409)
 6. [NeurIPS 23] **Towards Self-Interpretable Graph-Level Anomaly Detection** [[paper]](https://arxiv.org/abs/2310.16520)
 7. [NeurIPS 23] **Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis** [[paper]](https://nips.cc/virtual/2023/poster/70975)
