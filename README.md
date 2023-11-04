@@ -51,12 +51,12 @@ Papers about the explainability of GNNs
 
 ### Year 2023
 1. [NeurIPS 23] **Interpretable Graph Networks Formulate Universal Algebra Conjectures**[[paper]](https://nips.cc/virtual/2023/poster/71732)
-2. [NeurIPS 23] **D4Explainer: In-distribution Explanations of Graph Neural Network via Discrete Denoising Diffusion** [[paper]](https://nips.cc/virtual/2023/poster/72212)
+2. [NeurIPS 23] **D4Explainer: In-distribution Explanations of Graph Neural Network via Discrete Denoising Diffusion** [[paper]](https://arxiv.org/abs/2310.19321)
 3. [NeurIPS 23] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [[paper]](https://nips.cc/virtual/2023/poster/72760)
 4. [NeurIPS 23] **V-InFoR: A Robust Graph Neural Networks Explainer for Structurally Corrupted Graphs** [[paper]](https://nips.cc/virtual/2023/poster/72409)
 5. [NeurIPS 23] **Towards Self-Interpretable Graph-Level Anomaly Detection** [[paper]](https://arxiv.org/abs/2310.16520)
 6. [NeurIPS 23] **Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis** [[paper]](https://nips.cc/virtual/2023/poster/70975)
-7. [NeurIPS 23] **Interpretable Prototype-based Graph Information Bottleneck** [[paper]](https://nips.cc/virtual/2023/poster/70730)
+7. [NeurIPS 23] **Interpretable Prototype-based Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2310.19906)
 8. [CIKM 23] **Explainable Spatio-Temporal Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614871)
 9. [CIKM 23] **DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614857)
 10. [CIKM 23] **Heterogeneous Temporal Graph Neural Network Explainer** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614909)
