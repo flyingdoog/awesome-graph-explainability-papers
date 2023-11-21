@@ -41,7 +41,7 @@ Papers about the explainability of GNNs
 5. [Openreview 23] **Interpretable and Generalizable Graph Neural Networks via Subgraph Multilinear Extension** [[paper]](https://openreview.net/forum?id=dVq2StlcnY)
 6. [Openreview 23] **Interpretable and Convergent Graph Neural Network Layers at Scale** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
 7. [Openreview 23] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
-8. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
+8. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=88MalncLgU)
 9. [openreview 23] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
 10. [openreview 23] **UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models** [[paper]](https://openreview.net/forum?id=0j9ZDzMPqr)
 11. [WSDM 24] **DyExplainer: Explainable Dynamic Graph Neural Networks** [[paper]](https://arxiv.org/abs/2310.16375)
