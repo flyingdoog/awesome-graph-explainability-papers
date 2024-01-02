@@ -36,16 +36,17 @@ Papers about the explainability of GNNs
 ### Year 2024
 1. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
 2. [Information Procs. & Mana.] **Towards explaining graph neural networks via preserving prediction ranking and structural dependency**[[paper]](https://www.sciencedirect.com/science/article/pii/S0306457323003084)
-3. [Openreview 23] **STExplainer: Global Explainability of GNNs via Frequent SubTree Mining** [[paper]](https://openreview.net/forum?id=HgSfV6sGIn)
-4. [Openreview 23] **Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts** [[paper]](https://openreview.net/forum?id=wrqAn3AJA1)
-5. [Openreview 23] **GraphChef: Decision-Tree Recipes to Explain Graph Neural Networks** [[paper]](https://openreview.net/forum?id=IjMUGuUmBI)
-6. [Openreview 23] **Iterative Graph Neural Network Enhancement Using Explanations** [[paper]](https://openreview.net/forum?id=qp0oVaFGm0)
-7. [Openreview 23] **Interpretable and Generalizable Graph Neural Networks via Subgraph Multilinear Extension** [[paper]](https://openreview.net/forum?id=dVq2StlcnY)
-8. [Openreview 23] **Interpretable and Convergent Graph Neural Network Layers at Scale** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
-9. [Openreview 23] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
-10. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=88MalncLgU)
-11. [openreview 23] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
-12. [openreview 23] **UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models** [[paper]](https://openreview.net/forum?id=0j9ZDzMPqr)
+3. [Applied Energy]  **Explainable Spatio-Temporal Graph Neural Networks for multi-site photovoltaic energy production** [[paper]](https://www.sciencedirect.com/science/article/pii/S0306261923015155)
+4. [Openreview 23] **STExplainer: Global Explainability of GNNs via Frequent SubTree Mining** [[paper]](https://openreview.net/forum?id=HgSfV6sGIn)
+5. [Openreview 23] **Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts** [[paper]](https://openreview.net/forum?id=wrqAn3AJA1)
+6. [Openreview 23] **GraphChef: Decision-Tree Recipes to Explain Graph Neural Networks** [[paper]](https://openreview.net/forum?id=IjMUGuUmBI)
+7. [Openreview 23] **Iterative Graph Neural Network Enhancement Using Explanations** [[paper]](https://openreview.net/forum?id=qp0oVaFGm0)
+8. [Openreview 23] **Interpretable and Generalizable Graph Neural Networks via Subgraph Multilinear Extension** [[paper]](https://openreview.net/forum?id=dVq2StlcnY)
+9. [Openreview 23] **Interpretable and Convergent Graph Neural Network Layers at Scale** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
+10. [Openreview 23] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
+11. [Openreview 23] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=88MalncLgU)
+12. [openreview 23] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
+13. [openreview 23] **UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models** [[paper]](https://openreview.net/forum?id=0j9ZDzMPqr)
 
 
 
