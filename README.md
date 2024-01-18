@@ -41,6 +41,8 @@ Papers about the explainability of GNNs
 5. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
 6. [Information Procs. & Mana.] **Towards explaining graph neural networks via preserving prediction ranking and structural dependency**[[paper]](https://www.sciencedirect.com/science/article/pii/S0306457323003084)
 7. [Applied Energy]  **Explainable Spatio-Temporal Graph Neural Networks for multi-site photovoltaic energy production** [[paper]](https://www.sciencedirect.com/science/article/pii/S0306261923015155)
+8. [Arxiv 24] **GNNShap: Fast and Accurate GNN Explanations using Shapley Values** [[paper]](https://arxiv.org/abs/2401.04829)
+
 
 
 
