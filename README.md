@@ -34,13 +34,14 @@ Papers about the explainability of GNNs
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
 ### Year 2024
-1. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
-2. [Information Procs. & Mana.] **Towards explaining graph neural networks via preserving prediction ranking and structural dependency**[[paper]](https://www.sciencedirect.com/science/article/pii/S0306457323003084)
-3. [Applied Energy]  **Explainable Spatio-Temporal Graph Neural Networks for multi-site photovoltaic energy production** [[paper]](https://www.sciencedirect.com/science/article/pii/S0306261923015155)
-4. [ICLR 24] **GraphChef: Decision-Tree Recipes to Explain Graph Neural Networks** [[paper]](https://openreview.net/forum?id=IjMUGuUmBI)
-5. [ICLR 24] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
-6. [ICLR 24] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
-7. [ICLR 24] **UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models** [[paper]](https://openreview.net/forum?id=0j9ZDzMPqr)
+1. [ICLR 24] **GraphChef: Decision-Tree Recipes to Explain Graph Neural Networks** [[paper]](https://openreview.net/forum?id=IjMUGuUmBI)
+2. [ICLR 24] **GOAt: Explaining Graph Neural Networks via Graph Output Attribution** [[paper]](https://openreview.net/forum?id=2Q8TZWAHv4)
+3. [ICLR 24] **Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks** [[paper]](https://openreview.net/forum?id=up6hr4hIQH)
+4. [ICLR 24] **UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models** [[paper]](https://openreview.net/forum?id=0j9ZDzMPqr)
+5. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
+6. [Information Procs. & Mana.] **Towards explaining graph neural networks via preserving prediction ranking and structural dependency**[[paper]](https://www.sciencedirect.com/science/article/pii/S0306457323003084)
+7. [Applied Energy]  **Explainable Spatio-Temporal Graph Neural Networks for multi-site photovoltaic energy production** [[paper]](https://www.sciencedirect.com/science/article/pii/S0306261923015155)
+
 
 
 
