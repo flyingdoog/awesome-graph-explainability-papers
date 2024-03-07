@@ -281,9 +281,9 @@ Papers about the explainability of GNNs
 
 
 ### Year 2021
-1.[NeurIPS 21] **SALKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning** [[paper]](https://arxiv.org/pdf/2104.08793.pdf)
+1. [NeurIPS 21] **SALKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning** [[paper]](https://arxiv.org/pdf/2104.08793.pdf)
 2. [NeurIPS 2021] **Reinforcement Learning Enhanced Explainer for Graph Neural Networks** [[paper]](http://recmind.cn/papers/explainer_nips21.pdf)
-20. [NeurIPS 2021] **Towards Multi-Grained Explainability for Graph Neural Networks** [[paper]](http://staff.ustc.edu.cn/~hexn/papers/nips21-explain-gnn.pdf)
+3. [NeurIPS 2021] **Towards Multi-Grained Explainability for Graph Neural Networks** [[paper]](http://staff.ustc.edu.cn/~hexn/papers/nips21-explain-gnn.pdf)
 21. [NeurIPS 2021] **Robust Counterfactual Explanations on Graph Neural Networks** [[paper]](https://arxiv.org/abs/2107.04086)
 22. [ICML 2021] **On Explainability of Graph Neural Networks via Subgraph Explorations**[[paper]](https://arxiv.org/abs/2102.05152)
 32. [ICML 2021] **Generative Causal Explanations for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2104.06643)
