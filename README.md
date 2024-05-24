@@ -159,7 +159,6 @@ Papers about the explainability of GNNs
 54. [Openreview 23] **STExplainer: Global Explainability of GNNs via Frequent SubTree Mining** [[paper]](https://openreview.net/forum?id=HgSfV6sGIn)
 55. [GLFrontiers 23] **Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts** [[paper]](https://openreview.net/forum?id=wrqAn3AJA1)
 56. [Openreview 23] **Iterative Graph Neural Network Enhancement Using Explanations** [[paper]](https://openreview.net/forum?id=qp0oVaFGm0)
-57. [Openreview 23] **Interpretable and Generalizable Graph Neural Networks via Subgraph Multilinear Extension** [[paper]](https://openreview.net/forum?id=dVq2StlcnY)
 58. [Openreview 23] **Interpretable and Convergent Graph Neural Network Layers at Scale** [[paper]](https://openreview.net/forum?id=uYTaVRkKvz)
 59. [Openreview 23] **InduCE: Inductive Counterfactual Explanations for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=RZPN8cgqST)
 60. [NeurIPS 2023 Workshop XAIA] **GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Networks Explanations** [[paper]](https://openreview.net/forum?id=88MalncLgU)
