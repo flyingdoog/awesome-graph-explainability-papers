@@ -203,7 +203,6 @@ Papers about the explainability of GNNs
 99. [Thesis 23] **Interpretability of Graphical Models** [[paper]](https://search.proquest.com/openview/1e61b389a59936e319974be0e3fd1af5/1?pq-origsite=gscholar&cbl=18750&diss=y&casa_token=C9nV5jxJYI8AAAAA:JOFDxmahcpJaxvKbdxeAOjhWqckVL1c2yi-p671HIOilMIovvrF0t9CJns5a7Is1TfwSv2TD7Q)
 101. [Bioengineering 2023] **Personalized Explanations for Early Diagnosis of Alzheimer's Disease Using Explainable Graph Neural Networks with Population Graphs** [[paper]](https://www.mdpi.com/2306-5354/10/6/701)
 102. [BDSC 2023] **MDC: An Interpretable GNNs Method Based on Node Motif Degree and Graph Diffusion Convolution** [[paper]] (https://link.springer.com/chapter/10.1007/978-981-99-3925-1_24)
-103. [Arxiv 2023] **In-Process Global Interpretation for Graph Learning via Distribution Matching** [[paper]](https://arxiv.org/abs/2306.10447)
 104. [Information Science 2023] **Explainability techniques applied to road traffic forecasting using Graph Neural Network models** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523009052)
 105. [Arxiv 23] **Efficient GNN Explanation via Learning Removal-based Attribution** [[paper]](https://arxiv.org/abs/2306.05760)
 106. [Arxiv 23] **Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity** [[paper]](https://arxiv.org/pdf/2306.04835.pdf)
