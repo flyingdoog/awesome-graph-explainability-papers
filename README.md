@@ -52,10 +52,11 @@ Papers about the explainability of GNNs
 21. [SIGMOD 24]**View-based Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2401.02086)
 22. [ICDE 24] **Generating Robust Counterfactual Witnesses for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2404.19519)
 23. [ICSE 24] **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**[[paper]](https://arxiv.org/abs/2401.14886)
-24. [AAAI 24] **Stratifed GNN Explanations through Sufficient Expansion**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29180)
-25. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
-26. [AAAI 24] **Self-Interpretable Graph Learning with Sufficient and Necessary Explanations**
-27. [AAAI 24] **Explainable Origin-Destination Crowd Flow Interpolation via Variational Multi-Modal Recurrent Graph Auto-Encoder** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28796)
+24. [AAAI 24] **Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30168)
+25. [AAAI 24] **Stratifed GNN Explanations through Sufficient Expansion**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29180)
+26. [AAAI 24] **Factorized Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2312.05596)
+27. [AAAI 24] **Self-Interpretable Graph Learning with Sufficient and Necessary Explanations**
+28. [AAAI 24] **Explainable Origin-Destination Crowd Flow Interpolation via Variational Multi-Modal Recurrent Graph Auto-Encoder** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28796)
 13. [AISTATS 24] **Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process** [[paper]](https://proceedings.mlr.press/v238/kong24a.html)
 14. [WWW 24] **Game-theoretic Counterfactual Explanation for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2402.06030)
 15. [WWW 24] **EXGC: Bridging Efficiency and Explainability in Graph Condensation**[[paper]](https://arxiv.org/abs/2402.05962)
