@@ -35,7 +35,7 @@ Papers about the explainability of GNNs
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
 ### Year 2024
-1. [ICML 24] **Interpreting Graph Neural Networks with In-Distributed Proxies**[[paper]](https://arxiv.org/abs/2402.02036)
+1. [ICML 24] **Generating In-Distribution Proxy Graphs for Explaining Graph Neural Networks**[[paper]](https://arxiv.org/abs/2402.02036)
 2. [ICML 24] **Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks** [[paper]](https://arxiv.org/abs/2401.08627)
 3. [ICML 24] **Graph Neural Network Explanations are Fragile** [[paper]](https://arxiv.org/pdf/2406.03193)
 4. [ICML 24] **How Interpretable Are Interpretable Graph Neural Networks?** [[paper]](https://icml.cc/virtual/2024/poster/34550)
