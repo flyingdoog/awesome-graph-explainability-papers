@@ -74,7 +74,7 @@ Papers about the explainability of GNNs
 35. [Arxiv 24.05] **Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks** [[paper]](https://arxiv.org/abs/2405.12654)
 36. [Arxiv 24.05] **MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation** [[paper]](https://arxiv.org/abs/2405.12519)
 37. [Arxiv 24.05] **Detecting Complex Multi-step Attacks with Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2405.11335)
-38. [Arxiv 24.05] **SynHIN: Generating Synthetic Heterogeneous Information Network for Explainable AI**[[paper]](https://arxiv.org/abs/2401.04133)
+38. [Arxiv 24.05] **SynHING: Synthetic Heterogeneous Information Network Generation for Graph Learning and Explanation**[[paper]](https://arxiv.org/abs/2401.04133)
 39. [Preprint 24.05] **Explainable Graph Neural Networks: An Application to Open Statistics Knowledge Graphs for Estimating House Prices** [[paper]](https://www.preprints.org/manuscript/202405.0037/v1)
 40. [Arxiv 24.04] **Superior Polymeric Gas Separation Membrane Designed by Explainable Graph Machine Learning** [[paper]](https://arxiv.org/abs/2404.10903)
 41. [Arxiv 24.04] **Improving the interpretability of GNN predictions through conformal-based graph sparsification** [[paper]](https://arxiv.org/abs/2404.12356)
