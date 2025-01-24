@@ -154,7 +154,6 @@ Papers about the explainability of GNNs
 49. [Arxiv 24.06] **Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks** [[paper]](https://arxiv.org/abs/2406.13920)
 50. [Arxiv 24.06] **Perks and Pitfalls of Faithfulness in Regular, Self-Explainable and Domain Invariant GNNs** [[paper]](https://arxiv.org/abs/2406.15156)
 51. [Arxiv 24.05] **Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks** [[paper]](https://arxiv.org/abs/2405.12654)
-52. [Arxiv 24.05] **MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation** [[paper]](https://arxiv.org/abs/2405.12519)
 53. [Arxiv 24.05] **Detecting Complex Multi-step Attacks with Explainable Graph Neural Network** [[paper]](https://arxiv.org/abs/2405.11335)
 54. [Arxiv 24.05] **SynHING: Synthetic Heterogeneous Information Network Generation for Graph Learning and Explanation**[[paper]](https://arxiv.org/abs/2401.04133)
 55. [Preprint 24.05] **Explainable Graph Neural Networks: An Application to Open Statistics Knowledge Graphs for Estimating House Prices** [[paper]](https://www.preprints.org/manuscript/202405.0037/v1)
