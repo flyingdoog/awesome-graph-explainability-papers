@@ -328,6 +328,7 @@ Papers about the explainability of GNNs
 125. [Arxiv 23] **Structural Explanations for Graph Neural Networks using HSIC** [[paper]](https://arxiv.org/abs/2302.02139)
 126. [Internet of Things 23] **XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics** [[paper]](https://arxiv.org/abs/2207.09088)
 127. [JOS23] **A Generic Explaining & Locating Method for Malware Detection based on Graph Neural Networks** [[paper]](https://www.jos.org.cn/josen/article/abstract/7123)
+128. [IJCNN 23] **GRAPHSHAP: Explaining Identity-Aware Graph Classifiers Through the Language of Motifs** [[paper]](https://arxiv.org/abs/2202.08815)
 
 ### Year 2022
 1. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
@@ -384,7 +385,6 @@ Papers about the explainability of GNNs
 84. [DSN 22] **CFGExplainer: Explaining Graph Neural Network-Based Malware Classification from Control Flow Graphs** [[paper]](http://www.cs.binghamton.edu/~ghyan/papers/dsn22.pdf)
 118. [IEEE Access 22] **Providing Node-level Local Explanation for node2vec through Reinforcement Learning** [[paper]](https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf)
 119. [Patterns 22] **Quantitative Evaluation of Explainable Graph Neural Networks for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2107.04119.pdf)
-120. [Arxiv 22] **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers** [[paper]](https://arxiv.org/abs/2202.08815)
 121. [IEEE Access 22] **Providing Post-Hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions** [[paper]](https://ieeexplore.ieee.org/abstract/document/10003193)
 122. [IEEE 22] **Explaining Graph Neural Networks With Topology-Aware Node Selection: Application in Air Quality Inference**  [[paper]](https://ieeexplore.ieee.org/document/9801665)
 123. [BioRxiv 22] **GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1)
