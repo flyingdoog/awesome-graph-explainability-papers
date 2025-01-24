@@ -10,7 +10,7 @@ Papers about the explainability of GNNs
 6. [Arxiv 22]**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
 7. [Arxiv 22] **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
 8. [Big Data 2022]**A Survey of Explainable Graph Neural Networks for Cyber Malware Analysis** [paper](https://ieeexplore.ieee.org/abstract/document/10020943)
-9. [Arxiv 23] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**[paper](https://arxiv.org/abs/2204.08570)
+9. [Machine Intelligence Research 24] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**[paper](https://arxiv.org/abs/2204.08570)
 10. [Arxiv 22] **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
 11. [Book 23] **Generative Explanation for Graph Neural Network: Methods and Evaluation** [paper](http://sites.computer.org/debull/A23june/p64.pdf)
 
@@ -409,7 +409,6 @@ Papers about the explainability of GNNs
 147. [Arxiv 22] **Faithful Explanations for Deep Graph Models** [[paper]](https://arxiv.org/abs/2205.11850)
 148. [Arxiv 22] **Towards Explanation for Unsupervised Graph-Level Representation Learning** [[paper]](https://arxiv.org/abs/2205.09934)
 149. [Arxiv 22] **BAGEL: A Benchmark for Assessing Graph Neural Network Explanations** [[paper]](https://arxiv.org/abs/2206.13983)
-151. [Arxiv 22] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability** [[paper]](https://arxiv.org/abs/2204.08570)
 152. [Arxiv 22] **Explainability in Graph Neural Networks: An Experimental Survey** [[paper]](https://arxiv.org/abs/2203.09258)
 153. [IEEE TSIPN 22] **Explainability and Graph Learning from Social Interactions** [[paper]](https://arxiv.org/pdf/2203.07494.pdf)
 154. [Arxiv 22] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
