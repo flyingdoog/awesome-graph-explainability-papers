@@ -134,7 +134,6 @@ Papers about the explainability of GNNs
 40. [Preprint 24.11] **Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks** [[paper]](https://www.researchsquare.com/article/rs-5414037/v1)
 41. [Preprint 24.10] **Reliable and Faithful Generative Explainers for Graph Neural Networks**[[paper]](https://www.preprints.org/manuscript/202410.1718)
 42. [Arxiv 24.10] **Explaining Hypergraph Neural Networks: From Local Explanations to Global Concepts**[[paper]](https://arxiv.org/abs/2410.07764)
-43. [Arxiv 24.10] **Explaining Hypergraph Neural Networks: From Local Explanations to Global Concepts** [[paper]](https://arxiv.org/abs/2410.07764)
 44. [Arxiv 24.09] **GraphGI:A GNN Explanation Method using Game Interaction** [[paper]](https://arxiv.org/abs/2409.15698)
 45. [Arxiv 24.09] **GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method** [[paper]](https://arxiv.org/abs/2409.10996)
 46. [Arxiv 24.09] **PAGE: Parametric Generative Explainer for Graph Neural Network** [[paper]](https://arxiv.org/abs/2408.14042)
