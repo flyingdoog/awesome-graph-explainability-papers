@@ -44,7 +44,7 @@ Papers about the explainability of GNNs
 6. [ICLR 25] **MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation** [[paper]](https://openreview.net/forum?id=vue9P1Ypk6)
 7. [AAAI 25] **Higher Order Structures For Graph Explanations** [[paper]](https://arxiv.org/abs/2406.03253)
 8. [AAAI 25] **Self-Explainable Graph Transformer for Link Sign Prediction**[[paper]](https://arxiv.org/abs/2408.08754)
-9. [Arxiv 24.06] **Faithful and Accurate Self-Attention Attribution for Message Passing Neural Networks via the Computation Tree Viewpoint**[[paper]](https://arxiv.org/abs/2406.04612)
+9. [AAAI 25] **Faithful and Accurate Self-Attention Attribution for Message Passing Neural Networks via the Computation Tree Viewpoint**[[paper]](https://arxiv.org/abs/2406.04612)
 10. [Arxiv 25.01] **Watermarking Graph Neural Networks via Explanations for Ownership Protection** [[paper]](https://arxiv.org/abs/2501.05614)
 11. [Arxiv 25.01] **Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection** [[paper]](https://arxiv.org/abs/2501.03432)
 12. [ACM Computing Surveys] **Can Graph Neural Networks be Adequately Explained? A Survey** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711122)
