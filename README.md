@@ -2,16 +2,16 @@
 Papers about the explainability of GNNs
 
 ### Surveys
-1. [Proceedings of the IEEE 24] **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/abs/2205.07424)
-2. [Preprint 24] **Graph-Based Explainable AI: A Comprehensive Survey** [paper](https://hal.science/hal-04660442/)
-3. [Arixv 23] **A Survey on Explainability of Graph Neural Networks** [paper](https://arxiv.org/abs/2306.01958)
-4. [ACM computing survey] **A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation, and Research Challenges** [paper](https://dl.acm.org/doi/abs/10.1145/3618105)
-5. [TPAMI 22]**Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. [paper](https://arxiv.org/pdf/2012.15445.pdf)
-6. [Arxiv 22]**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
-7. [Arxiv 22] **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
-8. [Big Data 2022]**A Survey of Explainable Graph Neural Networks for Cyber Malware Analysis** [paper](https://ieeexplore.ieee.org/abstract/document/10020943)
-9. [Machine Intelligence Research 24] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**[paper](https://arxiv.org/abs/2204.08570)
-10. [Arxiv 22] **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
+1. [ACM computing survey 25] **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://dl.acm.org/doi/pdf/10.1145/3696444)
+2. [Proceedings of the IEEE 24] **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/abs/2205.07424)
+3. [Preprint 24] **Graph-Based Explainable AI: A Comprehensive Survey** [paper](https://hal.science/hal-04660442/)
+4. [Arixv 23] **A Survey on Explainability of Graph Neural Networks** [paper](https://arxiv.org/abs/2306.01958)
+5. [ACM computing survey] **A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation, and Research Challenges** [paper](https://dl.acm.org/doi/abs/10.1145/3618105)
+6. [TPAMI 22]**Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. [paper](https://arxiv.org/pdf/2012.15445.pdf)
+7. [Arxiv 22]**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
+8. [Arxiv 22] **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
+9. [Big Data 2022]**A Survey of Explainable Graph Neural Networks for Cyber Malware Analysis** [paper](https://ieeexplore.ieee.org/abstract/document/10020943)
+10. [Machine Intelligence Research 24] **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**[paper](https://arxiv.org/abs/2204.08570)
 11. [Book 23] **Generative Explanation for Graph Neural Network: Methods and Evaluation** [paper](http://sites.computer.org/debull/A23june/p64.pdf)
 
 ### Platforms
