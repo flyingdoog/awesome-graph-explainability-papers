@@ -56,7 +56,7 @@ Papers about the explainability of GNNs
 18. [Springer FCS] **Learning from shortcut: a shortcut-guided approach for explainable graph learning** [[paper]](https://link.springer.com/article/10.1007/s11704-024-40452-4)
 19. [NN] **Local interpretable spammer detection model with multi-head graph channel attention network** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608024009985)
 20. [ Applied Intelligence ] **KnowGNN: a knowledge-aware and structure-sensitive model-level explainer for graph neural networks** [[paper]](https://link.springer.com/article/10.1007/s10489-024-06034-4)
-   
+21. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) [[project]](https://jackal092927.github.io/publication/TopInG_ICML2025)    
 
 ### Year 2024
 1. [NeurIPS 24] **RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task** [[paper]](https://arxiv.org/abs/2307.07840)
