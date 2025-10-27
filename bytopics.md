@@ -14,3 +14,6 @@
 
 ## Counterfactual 
 1. [Arxiv 23] **Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity** [[paper]](https://arxiv.org/pdf/2306.04835.pdf)
+
+## Topological Regularizor 
+1. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) [[project]](https://jackal092927.github.io/publication/TopInG_ICML2025) 
