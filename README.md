@@ -38,6 +38,7 @@ Papers about the explainability of GNNs
 ### Year 2025
 -  [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
 -  [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
+-  [NIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OtAiYPP6GA)
 1. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
 2. [ICLR 25] **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=KEUPk0wXXe)
 3. [ICLR 25] **Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks** [[paper]](https://openreview.net/forum?id=iFK0xoceR0)
