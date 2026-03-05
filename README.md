@@ -35,6 +35,11 @@ Papers about the explainability of GNNs
 9. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Lu, Yi-Ju and Li, Cheng-Te*. ACL 2020.[paper](https://arxiv.org/pdf/2004.11648.pdf)
 10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
 
+
+### Year 2026
+- [ICLR 26] **GNN Explanations that do not Explain and How to find Them**[[paper]](https://arxiv.org/abs/2601.20815)
+
+
 ### Year 2025
 -  [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
 -  [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
