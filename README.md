@@ -118,11 +118,12 @@ Papers about the explainability of GNNs
 
 
 ### Year 2025
--  [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
--  [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
--  [NIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OtAiYPP6GA)
--  [NIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8caa0e69d7e5bef025e118da9ff35a6c-Abstract-Conference.html)
-1. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
+1. [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
+2. [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
+3. [NIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OtAiYPP6GA)
+4. [NIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8caa0e69d7e5bef025e118da9ff35a6c-Abstract-Conference.html)
+5. [ICML 25] **On Explaining Equivariant Graph Networks via Improved Relevance Propagation** [[paper]](https://proceedings.mlr.press/v267/ling25a.html)
+6. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
 2. [ICLR 25] **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=KEUPk0wXXe)
 3. [ICLR 25] **Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks** [[paper]](https://openreview.net/forum?id=iFK0xoceR0)
 4. [ICLR 25] **Towards Explaining the Power of Constant-depth Graph Neural Networks for Linear Programming** [[paper]](https://openreview.net/forum?id=INow59Vurm)
@@ -176,8 +177,6 @@ Papers about the explainability of GNNs
 20. [Openreview 24] **Robust Graph Attention for Graph Adversarial Attacks: An Information Bottleneck Inspired Approach**[[paper]](https://openreview.net/forum?id=lTL4t68BNc)
 21. [Openreview 24] **Graph Distributional Analytics: Enhancing GNN Explainability through Scalable Embedding and Distribution Analysis**[[paper]](https://openreview.net/forum?id=Fzz8acgC6X)
 25. [Openreview 24] **Watermarking Graph Neural Networks Via Explanations For Ownership Protection**[[paper]](https://openreview.net/forum?id=EgP6IEyfYJ)
-30. [Openreview 24] **The GECo algorithm for Graph Neural Networks Explanation** [[paper]](https://openreview.net/forum?id=sTQC4TeYo1)
-31. [Openreview 24] **On Explaining Equivariant Graph Networks via Improved Relevance Propagation** [[paper]](https://openreview.net/forum?id=YkMg8sB8AH)
 32. [Openreview 24] **SIG: Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs** [[paper]](https://openreview.net/forum?id=j0KjevdhkH)
 33. [Openreview 24] **Interpretable and Adaptive Graph Contrastive Learning with Information Sharing for Biomedical Link Prediction** [[paper]](https://openreview.net/forum?id=GlgD9o9bl4)
 35. [Openreview 24] **TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [[paper]](https://openreview.net/forum?id=VWBYDo5NaM)
