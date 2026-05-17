@@ -242,7 +242,7 @@ Papers about the explainability of GNNs
 41. [Arxiv 24.11] **Rethinking Node Representation Interpretation through Relation Coherence**[[paper]](https://arxiv.org/abs/2411.00653)
 43. [Arxiv 24.11] **Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs**[[paper]](https://arxiv.org/abs/2403.18136)
 44. [Preprint 24.11] **Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks** [[paper]](https://www.researchsquare.com/article/rs-5414037/v1)
-45. [Preprint 24.10] **Reliable and Faithful Generative Explainers for Graph Neural Networks**[[paper]](https://www.preprints.org/manuscript/202410.1718)
+45. [Mach. Learn. Knowl. Extr. 24] **Reliable and Faithful Generative Explainers for Graph Neural Networks**[[paper]](https://www.preprints.org/manuscript/202410.1718)
 46. [Arxiv 24.10] **Explaining Hypergraph Neural Networks: From Local Explanations to Global Concepts**[[paper]](https://arxiv.org/abs/2410.07764)
 47. [Arxiv 24.10] **Explainable Graph Neural Networks Under Fire** [[paper]](https://arxiv.org/abs/2406.06417)
 48. [Arxiv 24.09] **GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method** [[paper]](https://arxiv.org/abs/2409.10996)
