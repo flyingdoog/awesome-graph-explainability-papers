@@ -103,10 +103,11 @@ Papers about the explainability of GNNs
 
 
 ### Year 2025
-1. [NeurIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
-2. [NeurIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
-3. [NeurIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)
-4. [NeurIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features** [[paper]](https://openreview.net/forum?id=yl9LxRL5tj)
+1. [NMI 25] **Towards unveiling sensitive and decisive patterns in explainable AI with a case study in geometric deep learning**[[paper]](https://www.nature.com/articles/s42256-025-00998-9)
+2. [NeurIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
+3. [NeurIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
+4. [NeurIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)
+5. [NeurIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features** [[paper]](https://openreview.net/forum?id=yl9LxRL5tj)
 7. [ICML 25] **On Explaining Equivariant Graph Networks via Improved Relevance Propagation** [[paper]](https://proceedings.mlr.press/v267/ling25a.html)
 8. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) 
 9. [ICML 25] **Actionable Interpretability via Causal Hypergraphs: Unravelling Batch Size Effects in Deep Learning** [[paper]](https://icml.cc/virtual/2025/49603)
@@ -355,7 +356,6 @@ Papers about the explainability of GNNs
 44. [Arxiv 24.06] **On GNN explanability with activation rules**[[paper]](https://arxiv.org/abs/2406.11594)
 46. [Arxiv 24.05] **SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**[[paper]](https://arxiv.org/abs/2405.19062)
 47. [Arxiv 24.06] **L2XGNN: Learning to Explain Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2209.14402.pdf)
-48. [Arxiv 24.06] **Towards Understanding Sensitive and Decisive Patterns in Explainable AI: A Case Study of Model Interpretation in Geometric Deep Learning**[[paper]](https://arxiv.org/abs/2407.00849)
 51. [Arxiv 24.06] **Robust Ante-hoc Graph Explainer using Bilevel Optimization** [[paper]](https://arxiv.org/abs/2305.15745)
 53. [Arxiv 24.05] **Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks** [[paper]](https://arxiv.org/abs/2405.12654)
 57. [Arxiv 24.05] **Evaluating Neighbor Explainability for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2311.08118)
