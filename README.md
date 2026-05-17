@@ -47,6 +47,8 @@ Papers about the explainability of GNNs
 - [AISTATS 26]**Archetypal Graph Generative Models: Explainable and Identifiable Communities via Anchor-Dominant Convex Hulls**[[paper]](https://arxiv.org/abs/2602.21342)
 - [TKDE 26] **Learning From Graph-Graph Relationship: A New Perspective on Graph-Level Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/11194745)
 - [TKDE 26] **Contrastive Fidelity-Maximised Explanations for Graph-Based Rumour Detection**[[paper]](https://ieeexplore.ieee.org/abstract/document/11430673)
+- [Arxiv 26.05] **From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning** [[paper]](https://arxiv.org/abs/2605.06814)
+- [Arxiv 26.05] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution** [[paper]](https://arxiv.org/abs/2605.03377)
 - [Arxiv 26.05] **Why Self-Inconsistency Arises in GNN Explanations and How to Exploit It**[[paper]](https://arxiv.org/abs/2605.07527)
 - [Preprint 26] **Explainability in Dynamic Graph Anomaly Detection: X-TADDY**[[paper]](https://www.researchgate.net/publication/404465820_Explainability_in_Dynamic_Graph_Anomaly_Detection_X-TADDY)
 - [Arxiv 26.05] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**[[paper]](https://arxiv.org/abs/2605.03377)
