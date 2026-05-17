@@ -50,7 +50,7 @@ Papers about the explainability of GNNs
 - [TKDE 26] **Learning From Graph-Graph Relationship: A New Perspective on Graph-Level Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/11194745)
 - [TKDE 26] **Contrastive Fidelity-Maximised Explanations for Graph-Based Rumour Detection**[[paper]](https://ieeexplore.ieee.org/abstract/document/11430673)
 - [Arxiv 26.05] **From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning** [[paper]](https://arxiv.org/abs/2605.06814)
-- [Arxiv 26.06A Cognitive Explainer for Fetal ultrasound images classifier Based on Medical Concepts] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
+- [Arxiv 26.05] A Cognitive Explainer for Fetal ultrasound images classifier Based on Medical Concepts] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
 - [Arxiv 26.05] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution** [[paper]](https://arxiv.org/abs/2605.03377)
 - [Arxiv 26.05] **Why Self-Inconsistency Arises in GNN Explanations and How to Exploit It**[[paper]](https://arxiv.org/abs/2605.07527)
 - [Preprint 26] **Explainability in Dynamic Graph Anomaly Detection: X-TADDY**[[paper]](https://www.researchgate.net/publication/404465820_Explainability_in_Dynamic_Graph_Anomaly_Detection_X-TADDY)
