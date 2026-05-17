@@ -390,7 +390,7 @@ Papers about the explainability of GNNs
 88. [PAKDD 24] **Toward Interpretable Graph Classification via Concept-Focused Structural Correspondence** [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-2650-9_2)
 89. [ICSE Poster 24] **Graph Neural Network based Log Anomaly Detection and Explanation** [[paper]](https://arxiv.org/abs/2307.00527)
 90. [ICPR 24] **Interpretable Deep Graph-Level Clustering: A Prototype-Based Approach** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-78128-5_8)
-91. [MedRxiv 24] **An Interpretable Population Graph Network to Identify Rapid Progression of Alzheimer’s Disease Using UK Biobank**[[paper]](https://www.medrxiv.org/content/10.1101/2024.03.27.24304966v1)
+91. [AIMA 24] **An Interpretable Population Graph Network to Identify Rapid Progression of Alzheimer’s Disease Using UK Biobank**[[paper]](https://www.medrxiv.org/content/10.1101/2024.03.27.24304966v1)
 92. [IEEE Transactions] **IEEE Transactions on Computational Social Systems**[[paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
 93. [Journal of Physics] **Explainer on GNN-based segmentation networks**[[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/2711/1/012009/meta)
 94. [Energy and AI] **Electricity demand forecasting at distribution and household levels using explainable causal graph neural network** [[paper]](https://www.sciencedirect.com/science/article/pii/S266654682400034X)
