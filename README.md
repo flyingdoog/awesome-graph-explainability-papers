@@ -366,7 +366,6 @@ Papers about the explainability of GNNs
 64. [Arixv 24.03] **Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**[[paper]](https://arxiv.org/abs/2403.07849)
 65. [Arxiv 24.02] **PAC Learnability under Explanation-Preserving Graph Perturbations**[[paper]](https://arxiv.org/abs/2402.05039)
 66. [Arxiv 24.02] **Explainable Global Wildfire Prediction Models using Graph Neural Networks**[[paper]](https://arxiv.org/abs/2402.07152)
-67. [Arxiv 24.02] **Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**[[paper]](https://arxiv.org/abs/2402.04710)
 68. [Arxiv 24.01] **On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**[[paper]](https://arxiv.org/abs/2401.00633)
 69. [ASP=DAC 24] **LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**[[paper]](https://arxiv.org/abs/2402.04235)
 70. [Biorxiv 24] **Community-aware explanations in knowledge graphs with XP-GNN**[[paper]](https://www.biorxiv.org/content/10.1101/2024.01.21.576302v1.abstract)
