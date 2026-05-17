@@ -135,7 +135,7 @@ Papers about the explainability of GNNs
 12. [Arxiv 25.12] **Enhancing Explainability of Graph Neural Networks Through Conceptual and Structural Analyses and Their Extensions** [[paper]](https://arxiv.org/abs/2512.08344)
 13. [Arxiv 25.11] **ARM-Explainer -- Explaining and improving graph neural network predictions for the maximum clique problem using node features and association rule mining** [[paper]](https://arxiv.org/abs/2511.22866)
 14. [Arxiv 25.05] **Dual Explanations via Subgraph Matching for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.20904)
-15. [Arxiv 25.04] **On the Consistency of GNN Explanations for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.16316)
+15. [Information Sciences 25] **On the Consistency of GNN Explanations for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.16316)
 16. [Arxiv 25.01] **Watermarking Graph Neural Networks via Explanations for Ownership Protection** [[paper]](https://arxiv.org/abs/2501.05614)
 17. [Arxiv 25.01] **Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection** [[paper]](https://arxiv.org/abs/2501.03432)
 18. [ACM Computing Surveys] **Can Graph Neural Networks be Adequately Explained? A Survey** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711122)
