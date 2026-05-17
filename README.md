@@ -23,27 +23,24 @@ Papers about the explainability of GNNs
 5. **BAGEL: A Benchmark for Assessing Graph Neural Network Explanations** [[paper]](https://arxiv.org/abs/2206.13983)[Code](https://github.com/mandeep-rathee/bagel-benchmark)
 
 
-### Most Influential Papers selected by [Cogdl](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#explainability
-1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
-2. **Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [code](https://github.com/RexYing/gnn-model-explainer)
-3. **Explainability methods for graph convolutional neural networks**. *Pope Phillip E, Kolouri Soheil, Rostami Mohammad, Martin Charles E, Hoffmann Heiko*. CVPR 2019.[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
-4. **Parameterized Explainer for Graph Neural Network**. *Luo Dongsheng, Cheng Wei, Xu Dongkuan, Yu Wenchao, Zong Bo, Chen Haifeng, Zhang Xiang*. NeurIPS 2020. [paper](https://arxiv.org/abs/2011.04573) [code](https://github.com/flyingdoog/PGExplainer)
-5. **Xgnn: Towards model-level explanations of graph neural networks**. *Yuan Hao, Tang Jiliang, Hu Xia, Ji Shuiwang*. KDD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085). 
-6. **Evaluating Attribution for Graph Neural Networks**. *Sanchez-Lengeling Benjamin, Wei Jennifer, Lee Brian, Reif Emily, Wang Peter, Qian Wesley, McCloskey Kevin, Colwell  Lucy, Wiltschko Alexander*. NeurIPS  2020.[paper](https://proceedings.neurips.cc/paper/2020/file/417fbbf2e9d5a28a855a11894b2e795a-Paper.pdf)
-7. **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks**. *Vu Minh, Thai My T.*. NeurIPS  2020.[paper](https://arxiv.org/pdf/2010.05788.pdf)
-8. **Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks**. *Federico Baldassarre and Kevin Smith and Josephine Sullivan and Hossein Azizpour*. ECCV 2020.[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730613.pdf)
-9. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Lu, Yi-Ju and Li, Cheng-Te*. ACL 2020.[paper](https://arxiv.org/pdf/2004.11648.pdf)
-10. **On Explainability of Graph Neural Networks via Subgraph Explorations**. *Yuan Hao, Yu Haiyang, Wang Jie, Li Kang, Ji Shuiwang*. ICML 2021.[paper](https://arxiv.org/pdf/2102.05152.pdf)
-
-
 ### Year 2026
 - [ICLR 26] **GNN Explanations that do not Explain and How to find Them**[[paper]](https://arxiv.org/abs/2601.20815)
+- [Arxiv 26] **Why Self-Inconsistency Arises in GNN Explanations and How to Exploit It**[[paper]](https://arxiv.org/abs/2605.07527)
+- [Preprint 26] **Explainability in Dynamic Graph Anomaly Detection: X-TADDY**[[paper]](https://www.researchgate.net/publication/404465820_Explainability_in_Dynamic_Graph_Anomaly_Detection_X-TADDY)
+- [Arxiv 26] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**[[paper]](https://arxiv.org/abs/2605.03377)
+- [TPAMI 26] **Addressing Structural Distribution Shift in Explanations for Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11505765)
+- [Information Processing \& Management 26] **PAGSL: Path-Augmenting Graph Structure Learning for explainable scholar recommendation**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002177)
+- [Scientific Reports 26] **Generating explainable hypotheses for drug repurposing with graph neural networks**[[paper]](https://www.nature.com/articles/s41598-026-50149-2)
+- 
+
+
 
 
 ### Year 2025
 -  [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
 -  [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
 -  [NIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OtAiYPP6GA)
+-  [NIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8caa0e69d7e5bef025e118da9ff35a6c-Abstract-Conference.html)
 1. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
 2. [ICLR 25] **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=KEUPk0wXXe)
 3. [ICLR 25] **Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks** [[paper]](https://openreview.net/forum?id=iFK0xoceR0)
