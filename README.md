@@ -232,6 +232,20 @@ Papers about the explainability of GNNs
 114. [Arxiv 25] **Towards comprehensive and prerequisite-free explainer for graph neural networks** [[paper]](https://arxiv.org/abs/2505.14005)
 115. [Arxiv 25] **LM^2otifs: An Explainable Framework for Machine-Generated Texts Detection** [[paper]](https://arxiv.org/abs/2505.12507)
 116. [Arxiv 25] **A method for the systematic generation of graph XAI benchmarks via Weisfeiler-Leman coloring** [[paper]](https://arxiv.org/abs/2505.12437)
+117. [Neural Comput Appl 25] **GraphXAI: a survey of graph neural networks (GNNs) for explainable AI (XAI)** [[paper]](https://link.springer.com/article/10.1007/s00521-025-11054-3)
+118. [ICLR 25] **How do large language models understand graph patterns? a benchmark for graph pattern comprehension** [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/9316da9c25ab559ba678f2fe52217a64-Abstract-Conference.html)
+119. [ACM Comput Surv 25] **Can graph neural networks be adequately explained? a survey** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711122)
+120. [ACM Trans Inf Syst 25] **CaGE: A causality-inspired graph neural network explainer for recommender systems** [[paper]](https://dl.acm.org/doi/abs/10.1145/3729224)
+121. [Arxiv 25.02] **Recent advances in malware detection: Graph learning and explainability** [[paper]](https://arxiv.org/abs/2502.10556)
+122. [Inf Fusion 25] **InsGNN: Interpretable spatio-temporal graph neural networks via information bottleneck** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253525000703)
+123. [AAAI 25] **Graph segmentation and contrastive enhanced explainer for graph neural networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35440)
+124. [WWW 25] **SEHG: bridging interpretability and prediction in self-explainable heterogeneous graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714661)
+125. [Inf Fusion 25] **GL-BKGNN: Graphlet-based Bi-Kernel Interpretable Graph Neural Networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253525003574)
+126. [WIREs DMKD 25] **Exploring Causal Learning Through Graph Neural Networks: An In‐Depth Review** [[paper]](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.70024)
+127. [ICLR 25] **MAGE: Model-level graph neural networks explanations via motif-based graph generation** [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7749f9c0d5ff109231be21e910a3ced2-Abstract-Conference.html)
+128. [Big Data Res 25] **Explainable malware detection through integrated graph reduction and learning techniques** [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579625000504)
+129. [TKDD 25] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://dl.acm.org/doi/10.1145/3689647)
+
 
  
 
@@ -284,7 +298,6 @@ Papers about the explainability of GNNs
 20. [LOG 24] **MOSE-GNN: A Motif-Based Self-Explaining Graph Neural Network for Molecular Property Prediction** [[paper]](https://openreview.net/forum?id=nD1a6hSLhO)
 22. [TNNLS 24] **BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with Graph Information Bottleneck** [[paper]](https://arxiv.org/abs/2205.03612)
 23. [TKDE 24] **On Regularization for Explaining Graph Neural Networks: An Information Theory Perspective** [[paper]](https://openreview.net/forum?id=5rX7M4wa2R_)
-24. [TKDD 24] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://dl.acm.org/doi/10.1145/3689647)
 25. [TKDD 24] **Efficient GNN Explanation via Learning Removal-based Attribution** [[paper]](https://dl.acm.org/doi/10.1145/3685678)
 26. [TAI 24] **Learning Counterfactual Explanation of Graph Neural Networks via Generative Flow Network**[[paper]](https://ieeexplore.ieee.org/document/10496445)
 27. [TAI 24] **Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction** [[paper]](https://ieeexplore.ieee.org/abstract/document/10680338)
