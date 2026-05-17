@@ -226,7 +226,12 @@ Papers about the explainability of GNNs
 108. [Neural Netw 25] **Community-influencing path explanation for link prediction in heterogeneous graph neural network** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608025005258)
 109. [KDD 25] **Is your explanation reliable: Confidence-aware explanation on graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3737010)
 110. [Neural Comput Appl 25] **Explainability graph neural networks with nearest neighbor estimate interpretations** [[paper]](https://link.springer.com/article/10.1007/s00521-025-11339-7)
-111. [Arxiv 25.05] **B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data** [[paper]](https://arxiv.org/abs/2505.22252)  
+111. [Arxiv 25.05] **B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data** [[paper]](https://arxiv.org/abs/2505.22252)
+112. [Arxiv 25] **MetaGMT: Improving Actionable Interpretability of Graph Multilinear Networks via Meta-Learning Filtration** [[paper]](https://arxiv.org/abs/2505.19445)
+113. [DASFAA 25] **Meta Relation Assisted Explanatory Model for Heterogeneous Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-981-95-3906-2_17)
+114. [Arxiv 25] **Towards comprehensive and prerequisite-free explainer for graph neural networks** [[paper]](https://arxiv.org/abs/2505.14005)
+115. [Arxiv 25] **LM^2otifs: An Explainable Framework for Machine-Generated Texts Detection** [[paper]](https://arxiv.org/abs/2505.12507)
+116. [Arxiv 25] **A method for the systematic generation of graph XAI benchmarks via Weisfeiler-Leman coloring** [[paper]](https://arxiv.org/abs/2505.12437)
 
  
 
