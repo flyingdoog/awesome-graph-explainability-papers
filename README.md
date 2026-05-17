@@ -1,4 +1,4 @@
-<img width="595" height="841" alt="image" src="https://github.com/user-attachments/assets/6c2c195e-bdb6-4d7e-a9e2-ec1f898c32fb" /># awesome-graph-explainability-papers
+# awesome-graph-explainability-papers
 Papers about the explainability of GNNs
 
 ### Surveys
