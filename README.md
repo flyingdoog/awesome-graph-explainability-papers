@@ -85,30 +85,10 @@ Papers about the explainability of GNNs
 - [TPAMI 26]**A Novel Approach to GNN Explainability: Distilling Knowledge With Inter-Layer Alignment**[[paper]](https://ieeexplore.ieee.org/abstract/document/11303163)
 - [Natural Resources Research]**GTF: A New Interpretable Graph Neural Network for Geochemical Anomaly Detection in Mineral Prospectivity Mapping**[[paper]](https://link.springer.com/article/10.1007/s11053-025-10589-5)
 - [QC+AI 2026]**QGSHAP: Quantum Acceleration for Faithful GNN Explanations**[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-17625-7_7)
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
+- [ICLR 26] **Self-Consistency Improves the Trustworthiness of Self-Interpretable GNNs** [[paper]](https://openreview.net/forum?id=hxGdAUn3sB)
+- [TKDE 26] **Learning From Graph-Graph Relationship: A New Perspective on Graph-Level Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/11194745)
+- [DSAA 26] **Explainability of Molecular Graph Neural Network** [[paper]](https://ieeexplore.ieee.org/abstract/document/11248008)
+- [ArXiv 26.03] **Poisoning the Inner Prediction Logic of Graph Neural Networks for Clean-Label Backdoor Attacks** [[paper]](https://arxiv.org/abs/2603.05004)  
 
 
 
@@ -118,12 +98,13 @@ Papers about the explainability of GNNs
 
 
 ### Year 2025
-1. [NIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
-2. [NIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
-3. [NIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=OtAiYPP6GA)
-4. [NIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8caa0e69d7e5bef025e118da9ff35a6c-Abstract-Conference.html)
-5. [ICML 25] **On Explaining Equivariant Graph Networks via Improved Relevance Propagation** [[paper]](https://proceedings.mlr.press/v267/ling25a.html)
-6. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
+1. [NeurIPS 25] **Robust Explanations of Graph Neural Networks via Graph Curvatures**[[paper]](https://openreview.net/pdf?id=48L3BEtH8w)
+2. [NeurIPS 25] **GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability**[[paper]](https://openreview.net/forum?id=eafIjoZAHm)
+3. [NeurIPS 25] **On Logic-based Self-Explainable Graph Neural Networks** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)
+4. [NeurIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features** [[paper]](https://openreview.net/forum?id=yl9LxRL5tj)
+5. [NeurIPS 25] **Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8caa0e69d7e5bef025e118da9ff35a6c-Abstract-Conference.html)
+7. [ICML 25] **On Explaining Equivariant Graph Networks via Improved Relevance Propagation** [[paper]](https://proceedings.mlr.press/v267/ling25a.html)
+8. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX) 
 2. [ICLR 25] **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=KEUPk0wXXe)
 3. [ICLR 25] **Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks** [[paper]](https://openreview.net/forum?id=iFK0xoceR0)
 4. [ICLR 25] **Towards Explaining the Power of Constant-depth Graph Neural Networks for Linear Programming** [[paper]](https://openreview.net/forum?id=INow59Vurm)
@@ -160,8 +141,69 @@ Papers about the explainability of GNNs
 35. [Journal of Statistical Theory and Applications 25] **BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks**[[paper]](https://link.springer.com/article/10.1007/s44199-025-00118-x)
 36. [Arxiv 24.12] **On the probability of necessity and sufficiency of explaining Graph Neural Networks: A lower bound optimization approach** [[paper]](https://arxiv.org/abs/2212.07056)
 37. [Machine Learning 25] **MBExplainer: Multilevel bandit-based explanations for downstream models with augmented graph embeddings** [[paper]](https://arxiv.org/abs/2411.00287)
-38. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection
-**[[paper]](https://www.mdpi.com/2673-3951/6/4/165)
+38. [Sci Rep 25] **Fraud detection and explanation in medical claims using GNN architectures** [[paper]](https://www.nature.com/articles/s41598-025-22910-6)
+39. [ICCBD+AI 25] **Learning Explanations of Graph Neural Networks via Multi-granularity Subgraph Masking** [[paper]](https://ieeexplore.ieee.org/abstract/document/11388108)
+40. [Thesis] **Explainable Deep Graph Learning: From Feature Attribution to Relational Reasoning** [[paper]](https://ualberta.scholaris.ca/items/d096af0d-d895-4245-bb50-333756f11efc)
+41. [ITSC 25] **An Ante-Hoc Explainable Graph Attention Network for Routing Optimization** [[paper]](https://ieeexplore.ieee.org/abstract/document/11423143)
+42. [PRICAI 25] **Interpretable Brain Network Analysis for Psychiatric Diagnosis Using Fuzzy Logic** [[paper]](https://link.springer.com/chapter/10.1007/978-981-95-7081-2_8)
+43. [Comput Ind Eng 25] **HeteroX: An interpretable Dual-tier Heterogeneous Graph for sustainable investment decisions** [[paper]](https://www.sciencedirect.com/science/article/pii/S0360835225007867)
+44. [ICDM 25] **Explanations Go Linear: Post-Hoc Explainability for Tabular Data with Interpretable Meta-Encoding** [[paper]](https://ieeexplore.ieee.org/abstract/document/11391937)
+45. [Comput Mater Continua 25] **Graph-Based Intrusion Detection with Explainable Edge Classification Learning** [[paper]](https://www.proquest.com/openview/c5a786c90b080f7c89b94957aa6a49a5/1)
+46. [CIoTSC 25] **Explainable Book Recommendations via Graph Convolutional Networks** [[paper]](https://ieeexplore.ieee.org/document/11413185/)
+47. [CIKM 25] **Assessing Natural Language Explanations of Relational Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760918)
+50. [CyberSciTech 25] **CFExplainerTG: Counterfactual Explanation for Temporal Graph Neural Networks in Cybersecurity** [[paper]](https://ieeexplore.ieee.org/abstract/document/11323376)
+51. [Concurr Comput Pract Exp 25] **GTCExplainer: Interpretable Graph Convolutional Networks for Molecular Activity Prediction** [[paper]](https://onlinelibrary.wiley.com/journal/15320634)
+52. [Mach Learn 25] **Bridging XAI and spectral analysis to investigate the inductive biases of deep graph networks** [[paper]](https://link.springer.com/article/10.1007/s10994-025-06884-0)
+53. [Data Min Knowl Discov 25] **Leveraging internal representations of GNNs with Shapley values** [[paper]](https://link.springer.com/article/10.1007/s10618-025-01159-7)
+54. [J King Saud Univ Comput Inf Sci 25] **DHGNN: A dynamic heterogeneous graph neural network for interpretable inventor collaboration prediction** [[paper]](https://link.springer.com/article/10.1007/s44443-025-00255-4)
+55. [DSPP 25] **An Efficient Explainability Framework for Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-981-95-3185-1_5)
+56. [Thesis 25] **ConceptGNNExplainer: A Self-Supervised Framework for Concept-Based Explanations of Graph Neural Network Predictions** [[paper]](https://www.researchgate.net/publication/396371920_ConceptGNNExplainer_A_Self-Supervised_Framework_for_Concept-Based_Explanations_of_Graph_Neural_Network_Predictions)
+57. [ASP-DAC 25] **Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network** [[paper]](https://ieeexplore.ieee.org/abstract/document/11420514)
+58. [CDVE 25] **Towards Interpretable GNNs: A Feasibility Study on Subgraph-Level Explanation Classification** [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06952-8_20)
+59. [ICML 25] **CoDy: Counterfactual Explainers for Dynamic Graphs** [[paper]](https://openreview.net/forum?id=FE9QN8d536&noteId=WKlQyq8iA9)
+60. [KBS 25] **Fair path explanations for heterogeneous link prediction from a community perspective** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125016478)
+61. [SMC 25] **MIP-Explainer: An Explainability Method for Graph Neural Networks Based on Mutual Information** [[paper]](https://ieeexplore.ieee.org/abstract/document/11343134)  
+62. [TOIS 25] **SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction** [[paper]](https://dl.acm.org/doi/full/10.1145/3777374)
+63. [Discov Artif Intell 26] **GraphAware: Interpretable machine learning on graphs** [[paper]](https://link.springer.com/article/10.1007/s44163-026-01028-2)
+64. [Preprint 25] **Faithful and Diverse Subgraph as Explanation for Large Probabilistic Graphical Models** [[paper]](https://www.researchsquare.com/article/rs-7397829/v1)
+65. [NeurIPS 25] **GnnXemplar: Exemplars to Explanations -- Natural Language Rules for Global GNN Interpretability** [[paper]](https://arxiv.org/abs/2509.18376)
+66. [Thesis 25] **Understanding Neural Burst Patterns Through Graph Neural Network Explainability in Simulated Neuronal Networks** [[paper]](https://digital.lib.washington.edu/researchworks/items/0b1d4669-505a-497a-91c7-37cc449055f0)
+67. [TKDE 25] **A Multi-Objective Explanation Framework for Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/11168917)
+68. [Neurocomputing 25] **STD-Explain: Generalizing explanations for spatio-temporal graph convolutional networks based on spatio-temporal decoupled perturbation** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231225022118)
+69. [Preprint 25] **Game theoretic explainers for graph neural networks** [[paper]](https://theses.hal.science/tel-05481917/)
+70. [TPDS 25] **XDGNN: Efficient Distributed GNN Training via Explanation-Guided Subgraph Expansion** [[paper]](https://ieeexplore.ieee.org/abstract/document/11159171)
+71. [Arxiv 25.09] **SEASONED: Semantic-Enhanced Self-Counterfactual Explainable Detection of Adversarial Exploiter Contracts** [[paper]](https://arxiv.org/abs/2509.05681)
+72. [J Softw Evol Process 25] **Towards Explainable Code Readability Classification With Graph Neural Networks** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.70048)
+73. [REW 25] **Research on Requirement Vulnerability Detection Method Based on Graph Neural Network and Counterfactual Explanation** [[paper]](https://ieeexplore.ieee.org/abstract/document/11190216)
+74. [Arxiv 25.09] **Superposition in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2509.00928)
+75. [Appl Soft Comput 25] **A multi-hop Shapley-based framework for graph convolutional network node classification explanation** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494625009263)
+76. [PLOS Complex Syst 25] **Determining graphlet explanations for machine learning on graphs** [[paper]](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000067)
+77. [TNSM 25] **Explainable GNN-Based Approach to Fault Forecasting in Cloud Service Debugging** [[paper]](https://ieeexplore.ieee.org/abstract/document/11138027/)
+78. [ICETCI 25] **Making Sense of Communities: A Survey on XAI Techniques in Graph Community Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/11257924)
+79. [TNNLS 25] **Gen-graphex: Generative in-distribution graph explanations for time-efficient model-level interpretability of gnns** [[paper]](https://ieeexplore.ieee.org/abstract/document/11127130/)
+80. [Appl Intell 25] **EGNet: explainable graph neural network with similarity explanation for medication recommendation** [[paper]](https://link.springer.com/article/10.1007/s10489-025-06806-6)
+81. [Thesis 25] **Towards Explainable AI on Graph Neural Networks: XAIG** [[paper]](https://search.proquest.com/openview/baf18515714bbc85a5ba4679ed1f8559/1?pq-origsite=gscholar&cbl=18750&diss=y)
+82. [Arxiv 25.08] **Towards Faithful Class-level Self-explainability in Graph Neural Networks by Subgraph Dependencies** [[paper]](https://arxiv.org/abs/2508.11513)
+83. [RIME 25] **X-node: Self-explanation is all we need** [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06103-4_18)
+84. [Arxiv 25.08] **Explainable Attention-Guided Stacked Graph Neural Networks for Malware Detection** [[paper]](https://arxiv.org/abs/2508.09801)
+85. [WWW 26] **Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features** [[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792518)
+86. [Pattern Recognit 26] **Explanation-guided backdoor defense for ID and OOD attacks in graph neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320326006588)
+87. [Arxiv 25.08] **From nodes to narratives: Explaining graph neural networks with llms and graph context** [[paper]](https://arxiv.org/abs/2508.07117)
+88. [Arxiv 25.08] **ProvX: Generating Counterfactual-Driven Attack Explanations for Provenance-Based Detection** [[paper]](https://arxiv.org/abs/2508.06073)
+89. [Arxiv 25.08] **NAEx: A Plug-and-Play Framework for Explaining Network Alignment** [[paper]](https://arxiv.org/abs/2508.04731)
+90. [KDD 25] **Global interpretable graph-level anomaly detection via prototype** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3736983)
+91. [KDD 25] **Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Molecular Graph Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3737009)
+92. [Arxiv 25.08] **From Binary to Continuous: Stochastic Re-Weighting for Robust Graph Explanation** [[paper]](https://arxiv.org/abs/2508.01925)
+93. [J Signal Process Syst 25] **HGExplainer: Toward Interpretable Heterogeneous Graph Neural Networks via Meta-path Perturbation** [[paper]](https://link.springer.com/article/10.1007/s11265-025-01965-8)
+94. [KDD 25] **Explaining gnn explanations with edge gradients** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3736947)
+95. [KDD 25] **Harnessing influence function in explaining graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3736995)
+96. [ECML PKDD 25] **Faithful Explanations for Graph Classification Using Logic** [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06078-5_7)
+90. [Arxiv 25.07] **Explainable graph neural networks via structural externalities** [[paper]](https://arxiv.org/abs/2507.17848)
+91. [J Chem Inf Model 25] **Explainable graph neural networks in chemistry: Combining attribution and uncertainty quantification** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01003)
+92. [TCCN 25] **Geek-explainer: an efficient interpretation method for graph neural networks in SDN** [[paper]](https://ieeexplore.ieee.org/abstract/document/11073170/)
+93. [Neural Netw 25] **Learning model-level explanations of graph neural networks via subgraph order embedding space** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608025006951)
+94. [IJCNN 25] **Visual Analytics for Explainable AI with Spatio-Temporal Data: A Comparative Study** [[paper]](https://ieeexplore.ieee.org/abstract/document/11227584/)
+95. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection**[[paper]](https://www.mdpi.com/2673-3951/6/4/165)
  
 
 ### Year 2024
