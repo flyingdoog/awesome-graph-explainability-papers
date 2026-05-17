@@ -31,7 +31,83 @@ Papers about the explainability of GNNs
 - [TPAMI 26] **Addressing Structural Distribution Shift in Explanations for Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11505765)
 - [Information Processing \& Management 26] **PAGSL: Path-Augmenting Graph Structure Learning for explainable scholar recommendation**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002177)
 - [Scientific Reports 26] **Generating explainable hypotheses for drug repurposing with graph neural networks**[[paper]](https://www.nature.com/articles/s41598-026-50149-2)
-- 
+- [ICASSP 26]**Prototype-Based Information Bottleneck for Explainable Heterogeneous Temporal Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11464688)
+- [XAI 26]**TACENR: Task-Agnostic Contrastive Explanations for Node Representations**[[paper]](https://arxiv.org/abs/2604.19372)
+- [WWW 26]**Explainable Graph Sparsification with Shapley Values**[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792909)
+- [WWW 26]**SGExplainer: Balanced Path-based Signed Graph Neural Network Explanation for Link Sign Prediction**[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792146)
+- [WWW 26]**Identification of Influential Node Group in Attributed Graph through Explaining Graph Neural Network**[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792471)
+- [Expert Systems 26]**CausGNN: A Causal-Based Explanation Framework for Graph Neural Networks**[[paper]]([https://dl.acm.org/doi/abs/10.1145/3774904.3792471](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70252)
+- [Arxiv 26] **ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**[[paper]](https://arxiv.org/abs/2603.28128)
+- [Computing 26] **GECo: a community-based graph neural network explainer**[[paper]](https://link.springer.com/article/10.1007/s00607-026-01642-z)
+- [Neurocomputing 26] **GNN-EGG: Graph neural network explanations via graph generation**[[paper]]([https://link.springer.com/article/10.1007/s00607-026-01642-z](https://www.sciencedirect.com/science/article/abs/pii/S0925231226007708)
+- [AAAI 26] **Generating In-Distribution Counterfactual Explanation for Graph Neural Networks**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39108)
+- [AAAI 26] **Interpretable and Robust Behavior Abstraction via Environment-Disentangled Heterogeneous Graph**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37056)
+- [AAAI 26] **Explaining Temporal Graph Neural Network via Quantum-Inspired Evolutionary Algorithm**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39621)
+- [AAAI 26] **Self-Interpretable Subgraph Neural Network with Deep Reinforcement Walk Exploration**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39352)
+- [AAAI 26] **CastX: Cohort-Level Causal Inference Meets Statistical Testing for Faithful and Reliable GNN Explanations**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40014)
+- [TKDE 26] **Contrastive Fidelity-Maximised Explanations for Graph-Based Rumour Detection**[[paper]]([https://ojs.aaai.org/index.php/AAAI/article/view/40014](https://ieeexplore.ieee.org/abstract/document/11430673)
+- [Journal of Complex Networks 26]**Assessing the explainability of Graph Neural Networks in random graphs classification task Get**[[paper]](https://academic.oup.com/comnet/article-abstract/14/2/cnag006/8542448)
+- [IUI 26]**Optimal Explanations: A Quantitative Model of Human Error in Causal Graph Interpretation**[[paper]](https://dl.acm.org/doi/full/10.1145/3742413.3789226)
+- [Arxiv 26]**Revealing Combinatorial Reasoning of GNNs via Graph Concept Bottleneck Layer**[[paper]](https://arxiv.org/abs/2603.02025)
+- [Arxiv 26]**Routing-Aware Explanations for Mixture of Experts Graph Models in Malware Detection**[[paper]](https://arxiv.org/abs/2602.19025)
+- [Applied Intelligence]**An explainable graph neural network framework for illicit financial transaction detection**[[paper]](https://link.springer.com/article/10.1007/s10489-026-07138-9)
+- [SSRN Electronic Journal]**NEXUS-IDS: From Structural to Semantic Explainability in Flow-Node Graph Neural Networks for IoT Intrusion Detection**[[paper]]()
+- [TPAMI 26]**Out-of-Distribution-Resistant Evaluations for Explanations of Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11394818)
+- [Preprint 26]**GNN Explainers 2.0: A Paradigm for User-Oriented, Data-Guided Explanations**[[paper]](https://www.cs.bgsu.edu/arijitk/Papers/GNNExplainers2_ICDE26_LighteningTalk.pdf)
+- [Arxiv 26]**Is Meta-Path Attention an Explanation? Evidence of Alignment and Decoupling in Heterogeneous GNNs**[[paper]](https://arxiv.org/abs/2602.08500)
+- [ENGINEERING Chemical Engineering]**AdapGNN: enhancing the explainability of GNN models in molecular properties prediction**[[paper]](https://link.springer.com/article/10.1007/s11705-026-2659-1)
+- [Arxiv 26]**Quantifying Explanation Quality in Graph Neural Networks using Out-of-Distribution Generalization**[[paper]](https://arxiv.org/abs/2602.07708)
+- [AISTATS 26]**Archetypal Graph Generative Models: Explainable and Identifiable Communities via Anchor-Dominant Convex Hulls**[[paper]](https://arxiv.org/abs/2602.21342)
+- [Information Science 26]**Post-hoc explainability of graph neural networks: A comprehensive survey**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526001337)
+- [IEEE Transactions on Systems, Man, and Cybernetics: Systems]**GroupEx: Toward Group-Level Explanations of Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11372055)
+- [Reliability Engineering & System Safety]**Temporal causal graph-based attention gated recurrent unit for interpretable fault diagnosis in nuclear power plants**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0951832026001481)
+- [CCNCPS 26]**Reliability-aware and Explainability-Driven Evaluation of Graph Neural Networks on Citation Networks**[[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6042594)
+- [ICLR 26]**GNN Explanations that do not Explain and How to find Them**[[paper]](https://arxiv.org/abs/2601.20815)
+- [Pattern Recognition 26]**Enhancing graph learning interpretability through modulating cluster information flow**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001433)
+- [WWW 26]**CausalSKyHop: Knowledge-Aware Causal Explanation of Dynamic GNNs via Higher-Order Semantic Reasoning**[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792242)
+- [BioData Mining 26]**Explainable AI-driven graph-based neural networks for mucopolysaccharidoses diagnosis**[[paper]](https://link.springer.com/article/10.1186/s13040-026-00523-7)
+- [WWW 26]**Explaining Synergistic Effects in Social Recommendations**[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792174)
+- [Arxiv 26]**GCFX: Generative Counterfactual Explanations for Deep Graph Models at the Model Level**[[paper]](https://arxiv.org/abs/2601.18447)
+- [Data Science and Engineering]**Generating Counterfactual Temporal Motifs: Unraveling the Mysteries of Temporal Graph Neural Networks**[[paper]](https://link.springer.com/article/10.1007/s41019-025-00321-x)
+- [International Journal of Geo-Information]**BD-GNN: Integrating Spatial and Administrative Boundaries in Property Valuation Using Graph Neural Networks**[[paper]](https://www.mdpi.com/2220-9964/15/2/52)
+- [Arxiv 26]**FSX: Message Flow Sensitivity Enhanced Structural Explainer for Graph Neural Networks**[[paper]](https://arxiv.org/abs/2601.14730)
+- [Arxiv 26]**Transparent Malware Detection With Granular Assembly Flow Explainability via Graph Neural Networks**[[paper]](https://arxiv.org/abs/2601.14511)
+- [Asia and South Pacific Design Automation Conference 26]**GALA: An Explainable GNN-based Approach for Enhancing Oracle-Less Logic Locking Attacks Using Functional and Behavioral Features**[[paper]](https://ieeexplore.ieee.org/abstract/document/11420328)
+- [TMLR 26]**AIMing for Standardised Explainability Evaluation in GNNs: A Framework and Case Study on Graph Kernel Networks**[[paper]](https://openreview.net/forum?id=onZkYXI7oe)
+- [IEEE Transactions on Computational Social Systems]**Causal Graph Learning for Face-Based Interpretable Hierarchical Diagnosis of Depression**[[paper]](https://ieeexplore.ieee.org/abstract/document/11353342)
+- [IEEE Transactions on Reliability]**KGC-Explainer: Toward Explainable Knowledge Graph Completion**[[paper]](https://ieeexplore.ieee.org/abstract/document/11342340)
+- [Cybersecurity 26]**XGA-E: an explainability-enhanced graph neural network for network traffic anomaly detection**[[paper]](https://link.springer.com/article/10.1186/s42400-025-00487-x)
+- [VLSID 26]**Hardware Trojan Detection and Interpretation Using Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11433244)
+- [IEEE Transactions on Information Forensics and Security]**Learning Subgraph-Based Normality for Interpretable Graph-Level Anomaly Detection**[[paper]](https://ieeexplore.ieee.org/abstract/document/11316097)
+- [Neurosymbolic AI Journal]**Towards Semantic Understanding of Graph Neural Network Layers Embedding with Functional Semantic Activation Mapping**[[paper]]()
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
