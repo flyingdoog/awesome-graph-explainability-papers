@@ -111,6 +111,7 @@ Papers about the explainability of GNNs
 10. [ICML 25] **CoDy: Counterfactual Explainers for Dynamic Graphs** [[paper]](https://openreview.net/forum?id=FE9QN8d536&noteId=WKlQyq8iA9)
 109.[ICML 25] **Redundancy undermines the trustworthiness of self-interpretable GNNs** [[paper]](https://openreview.net/forum?id=hFvp9NYfY9)
 91. [ICML 25] **Redundancy undermines the trustworthiness of self-interpretable GNNs** [[paper]](https://openreview.net/forum?id=hFvp9NYfY9)
+92. [ICML 25] **Beyond topological self-explainable GNNs: A formal explainability perspective** [[paper]](https://arxiv.org/abs/2502.02719)
 11. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX)
 119. [ICLR 25] **How do large language models understand graph patterns? a benchmark for graph pattern comprehension** [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/9316da9c25ab559ba678f2fe52217a64-Abstract-Conference.html)
 2. [ICLR 25] **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=KEUPk0wXXe)
@@ -250,7 +251,6 @@ Papers about the explainability of GNNs
 132. [TDSC 25] **SIGFinger: A subtle and interactive GNN fingerprinting scheme via spatial structure inference perturbation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10856347/)
 133. [Curr Bioinform 25] **A graphlet-based explanation generator for graph neural networks over biological datasets** [[paper]](https://www.benthamdirect.com/content/journals/cbio/10.2174/0115748936355418250114104026)
 134. [Inf Sci 25] **Towards self-interpretable review spammer group detection** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025525003895)
-135. [arXiv 25.02] **Beyond topological self-explainable GNNs: A formal explainability perspective** [[paper]](https://arxiv.org/abs/2502.02719)
 136. [RIME 25] **X-node: Self-explanation is all we need** [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06103-4_18)
 
 
