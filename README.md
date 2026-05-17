@@ -245,6 +245,12 @@ Papers about the explainability of GNNs
 127. [ICLR 25] **MAGE: Model-level graph neural networks explanations via motif-based graph generation** [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7749f9c0d5ff109231be21e910a3ced2-Abstract-Conference.html)
 128. [Big Data Res 25] **Explainable malware detection through integrated graph reduction and learning techniques** [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579625000504)
 129. [TKDD 25] **Towards Prototype-Based Self-Explainable Graph Neural Network** [[paper]](https://dl.acm.org/doi/10.1145/3689647)
+130. [Brief Bioinform 25] **Interpretable high-order knowledge graph neural network for predicting synthetic lethality in human cancers** [[paper]](https://academic.oup.com/bib/article-abstract/26/2/bbaf142/8107849)
+131. [TKDE 25] **GAFExplainer: Global view explanation of graph neural networks through attribute augmentation and fusion embedding** [[paper]](https://ieeexplore.ieee.org/abstract/document/10878445/)
+132. [TDSC 25] **SIGFinger: A subtle and interactive GNN fingerprinting scheme via spatial structure inference perturbation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10856347/)
+133. [Curr Bioinform 25] **A graphlet-based explanation generator for graph neural networks over biological datasets** [[paper]](https://www.benthamdirect.com/content/journals/cbio/10.2174/0115748936355418250114104026)
+134. [Inf Sci 25] **Towards self-interpretable review spammer group detection** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025525003895)
+135. [FAccT 25] **C2explainer: Customizable mask-based counterfactual explanation for graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3715275.3732012)
 
 
  
