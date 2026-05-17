@@ -1,4 +1,4 @@
-# awesome-graph-explainability-papers
+<img width="595" height="841" alt="image" src="https://github.com/user-attachments/assets/6c2c195e-bdb6-4d7e-a9e2-ec1f898c32fb" /># awesome-graph-explainability-papers
 Papers about the explainability of GNNs
 
 ### Surveys
@@ -80,6 +80,10 @@ Papers about the explainability of GNNs
 - [VLSID 26]**Hardware Trojan Detection and Interpretation Using Graph Neural Networks**[[paper]](https://ieeexplore.ieee.org/abstract/document/11433244)
 - [IEEE Transactions on Information Forensics and Security]**Learning Subgraph-Based Normality for Interpretable Graph-Level Anomaly Detection**[[paper]](https://ieeexplore.ieee.org/abstract/document/11316097)
 - [Neurosymbolic AI Journal]**Towards Semantic Understanding of Graph Neural Network Layers Embedding with Functional Semantic Activation Mapping**[[paper]]()
+- [Mach. Learn. Knowl. Extr. 2026]**Enhancing GNN Explanations for Malware Detection with Dual Subgraph Matching**[[paper]](https://www.mdpi.com/2504-4990/8/1/2)
+- [TPAMI 26]**A Novel Approach to GNN Explainability: Distilling Knowledge With Inter-Layer Alignment**[[paper]](https://ieeexplore.ieee.org/abstract/document/11303163)
+- [Natural Resources Research]**GTF: A New Interpretable Graph Neural Network for Geochemical Anomaly Detection in Mineral Prospectivity Mapping**[[paper]](https://link.springer.com/article/10.1007/s11053-025-10589-5)
+- [QC+AI 2026]**QGSHAP: Quantum Acceleration for Faithful GNN Explanations**[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-17625-7_7)
 
 
 
@@ -128,16 +132,27 @@ Papers about the explainability of GNNs
 9. [AAAI 25] **Faithful and Accurate Self-Attention Attribution for Message Passing Neural Networks via the Computation Tree Viewpoint**[[paper]](https://arxiv.org/abs/2406.04612)
 10. [AAAI 25] **Graph Segmentation and Contrastive Enhanced Explainer for Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35440)
 11. [TKDD 25] **DyExplainer: Explainable Dynamic Graph Neural Networks** [[paper]](https://arxiv.org/abs/2310.16375)
-12. [Arxiv 25.05] **Dual Explanations via Subgraph Matching for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.20904)
-13. [Arxiv 25.04] **On the Consistency of GNN Explanations for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.16316)
-14. [Arxiv 25.01] **Watermarking Graph Neural Networks via Explanations for Ownership Protection** [[paper]](https://arxiv.org/abs/2501.05614)
-15. [Arxiv 25.01] **Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection** [[paper]](https://arxiv.org/abs/2501.03432)
-16. [ACM Computing Surveys] **Can Graph Neural Networks be Adequately Explained? A Survey** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711122)
-17. [IEEE TNSRE] **Finding Neural Biomarkers for Motor Learning and Rehabilitation using an Explainable Graph Neural Network** [[paper]](https://ieeexplore.ieee.org/abstract/document/10843258)
-18. [Springer FCS] **Learning from shortcut: a shortcut-guided approach for explainable graph learning** [[paper]](https://link.springer.com/article/10.1007/s11704-024-40452-4)
-19. [NN] **Local interpretable spammer detection model with multi-head graph channel attention network** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608024009985)
-20. [ Applied Intelligence ] **KnowGNN: a knowledge-aware and structure-sensitive model-level explainer for graph neural networks** [[paper]](https://link.springer.com/article/10.1007/s10489-024-06034-4)
-21. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) [[project]](https://jackal092927.github.io/publication/TopInG_ICML2025)    
+12. [Arxiv 25.12] **Enhancing Explainability of Graph Neural Networks Through Conceptual and Structural Analyses and Their Extensions** [[paper]](https://arxiv.org/abs/2512.08344)
+13. [Arxiv 25.11] **ARM-Explainer -- Explaining and improving graph neural network predictions for the maximum clique problem using node features and association rule mining** [[paper]](https://arxiv.org/abs/2511.22866)
+14. [Arxiv 25.05] **Dual Explanations via Subgraph Matching for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.20904)
+15. [Arxiv 25.04] **On the Consistency of GNN Explanations for Malware Detection** [[paper]](https://arxiv.org/pdf/2504.16316)
+16. [Arxiv 25.01] **Watermarking Graph Neural Networks via Explanations for Ownership Protection** [[paper]](https://arxiv.org/abs/2501.05614)
+17. [Arxiv 25.01] **Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection** [[paper]](https://arxiv.org/abs/2501.03432)
+18. [ACM Computing Surveys] **Can Graph Neural Networks be Adequately Explained? A Survey** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711122)
+19. [IEEE TNSRE] **Finding Neural Biomarkers for Motor Learning and Rehabilitation using an Explainable Graph Neural Network** [[paper]](https://ieeexplore.ieee.org/abstract/document/10843258)
+20. [Springer FCS] **Learning from shortcut: a shortcut-guided approach for explainable graph learning** [[paper]](https://link.springer.com/article/10.1007/s11704-024-40452-4)
+21. [NN] **Local interpretable spammer detection model with multi-head graph channel attention network** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608024009985)
+22. [ Applied Intelligence ] **KnowGNN: a knowledge-aware and structure-sensitive model-level explainer for graph neural networks** [[paper]](https://link.springer.com/article/10.1007/s10489-024-06034-4)
+23. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) [[project]](https://jackal092927.github.io/publication/TopInG_ICML2025)
+24. [Measurement Science and Technology] **Tree structure guided graph neural networks for soft sensing and anomaly regulation**[[paper]](https://iopscience.iop.org/article/10.1088/1361-6501)
+25. [Data Science for Transportation]**Exploring the Potential and Utility of Graph Neural Networks in Crash Analysis and Safety Assessment**[[paper]](https://link.springer.com/article/10.1007/s42421-025-00144-2)
+26. [Preprint ]**Method for Explaining Regression Prediction Results Using Machine Learning on Temporal Graph Data**[[paper]](https://cir.nii.ac.jp/crid/1390025650674484864)
+27. [Thesis] **Explainable GNNs in Biomedicine**[[paper]]()
+28. [IEEE Access]**MOOC Dropout Prediction Using Explainable Relational Graph Convolution**[[paper]](https://ieeexplore.ieee.org/abstract/document/11269760)
+29. [ICDMW 25]**A Research and Development Portfolio of GNN Centric Malware Detection, Explainability, and Dataset Curation**[[paper]](https://arxiv.org/abs/2511.20801)
+30. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection
+**[[paper]](https://www.mdpi.com/2673-3951/6/4/165)
+ 
 
 ### Year 2024
 1. [NeurIPS 24] **RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task** [[paper]](https://arxiv.org/abs/2307.07840)
