@@ -144,13 +144,14 @@ Papers about the explainability of GNNs
 21. [NN] **Local interpretable spammer detection model with multi-head graph channel attention network** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608024009985)
 22. [ Applied Intelligence ] **KnowGNN: a knowledge-aware and structure-sensitive model-level explainer for graph neural networks** [[paper]](https://link.springer.com/article/10.1007/s10489-024-06034-4)
 23. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) [[project]](https://jackal092927.github.io/publication/TopInG_ICML2025)
-24. [Measurement Science and Technology] **Tree structure guided graph neural networks for soft sensing and anomaly regulation**[[paper]](https://iopscience.iop.org/article/10.1088/1361-6501)
-25. [Data Science for Transportation]**Exploring the Potential and Utility of Graph Neural Networks in Crash Analysis and Safety Assessment**[[paper]](https://link.springer.com/article/10.1007/s42421-025-00144-2)
-26. [Preprint ]**Method for Explaining Regression Prediction Results Using Machine Learning on Temporal Graph Data**[[paper]](https://cir.nii.ac.jp/crid/1390025650674484864)
-27. [Thesis] **Explainable GNNs in Biomedicine**[[paper]]()
-28. [IEEE Access]**MOOC Dropout Prediction Using Explainable Relational Graph Convolution**[[paper]](https://ieeexplore.ieee.org/abstract/document/11269760)
-29. [ICDMW 25]**A Research and Development Portfolio of GNN Centric Malware Detection, Explainability, and Dataset Curation**[[paper]](https://arxiv.org/abs/2511.20801)
-30. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection
+24. [IJCAI 25] **Explainable Graph Representation Learning via Graph Pattern Analysis** [[paper]](https://arxiv.org/abs/2512.04530)
+25. [Measurement Science and Technology] **Tree structure guided graph neural networks for soft sensing and anomaly regulation**[[paper]](https://iopscience.iop.org/article/10.1088/1361-6501)
+26. [Data Science for Transportation]**Exploring the Potential and Utility of Graph Neural Networks in Crash Analysis and Safety Assessment**[[paper]](https://link.springer.com/article/10.1007/s42421-025-00144-2)
+27. [Preprint ]**Method for Explaining Regression Prediction Results Using Machine Learning on Temporal Graph Data**[[paper]](https://cir.nii.ac.jp/crid/1390025650674484864)
+28. [Thesis] **Explainable GNNs in Biomedicine**[[paper]]()
+29. [IEEE Access]**MOOC Dropout Prediction Using Explainable Relational Graph Convolution**[[paper]](https://ieeexplore.ieee.org/abstract/document/11269760)
+30. [ICDMW 25]**A Research and Development Portfolio of GNN Centric Malware Detection, Explainability, and Dataset Curation**[[paper]](https://arxiv.org/abs/2511.20801)
+31. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection
 **[[paper]](https://www.mdpi.com/2673-3951/6/4/165)
  
 
@@ -173,7 +174,6 @@ Papers about the explainability of GNNs
 20. [Openreview 24] **Robust Graph Attention for Graph Adversarial Attacks: An Information Bottleneck Inspired Approach**[[paper]](https://openreview.net/forum?id=lTL4t68BNc)
 21. [Openreview 24] **Graph Distributional Analytics: Enhancing GNN Explainability through Scalable Embedding and Distribution Analysis**[[paper]](https://openreview.net/forum?id=Fzz8acgC6X)
 25. [Openreview 24] **Watermarking Graph Neural Networks Via Explanations For Ownership Protection**[[paper]](https://openreview.net/forum?id=EgP6IEyfYJ)
-26. [Openreview 24] **Explainable Graph Representation Learning via Graph Pattern Analysis** [[paper]](https://openreview.net/forum?id=hXJrQWIoR3)
 28. [Openreview 24] **Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck** [[paper]](https://openreview.net/forum?id=IMWYNVBHob)
 29. [Openreview 24] **A Hierarchical Language Model Design For Interpretable Graph Reasoning** [[paper]](https://openreview.net/forum?id=DRSSLefryd)
 30. [Openreview 24] **The GECo algorithm for Graph Neural Networks Explanation** [[paper]](https://openreview.net/forum?id=sTQC4TeYo1)
