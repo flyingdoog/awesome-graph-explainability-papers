@@ -714,8 +714,9 @@ Papers about the explainability of GNNs
 12. [OpenReview 20] **A Framework For Differentiable Discovery Of Graph Algorithms** [[paper]](https://openreview.net/pdf?id=ueiBFzt7CiK)
 13. [OpenReview 20] **Causal Screening to Interpret Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
 14. [Arxiv 20] **Understanding Graph Neural Networks from Graph Signal Denoising Perspectives** [[paper]](https://arxiv.org/pdf/2006.04386.pdf)
-15. . [IJCNN 20] **GCN-LRP explanation: exploring latent attention of graph convolutional networks**] [[paper]](https://ieeexplore.ieee.org/abstract/document/9207639)
+15. [IJCNN 20] **GCN-LRP explanation: exploring latent attention of graph convolutional networks**] [[paper]](https://ieeexplore.ieee.org/abstract/document/9207639)
 18. [CD-MAKE 20] **Explain Graph Neural Networks to Understand Weighted Graph Features in Node Classification** [[paper]](https://arxiv.org/abs/2002.00514) 
-19. [ICDM 19] **Scalable Explanation of Inferences on Large Graphs**[[paper]](https://arxiv.org/abs/1908.06482) 
+19. [ICDM 19] **Scalable Explanation of Inferences on Large Graphs**[[paper]](https://arxiv.org/abs/1908.06482)
+20. [NeurIPS 19]**GNNExplainer: Generating Explanations for Graph Neural Networks**[[paper]](https://arxiv.org/abs/1903.03894)
 
 
