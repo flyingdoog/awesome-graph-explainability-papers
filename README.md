@@ -154,7 +154,7 @@ Papers about the explainability of GNNs
 17. [TOIS 25] **SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction** [[paper]](https://dl.acm.org/doi/full/10.1145/3777374)
 18. [WSDM 25] **Impo: Interpretable memory-based prototypical pooling** [[paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3703543)
 90. [IJCAI 25] **Explainable graph neural networks via structural externalities** [[paper]](https://arxiv.org/abs/2507.17848)
-[IJCAI 25] **DGExplainer: Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8064.pdf)  
+91. [IJCAI 25] **DGExplainer: Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8064.pdf)  
 19. [IJCAI 25] **Explainable Graph Representation Learning via Graph Pattern Analysis** [[paper]](https://arxiv.org/abs/2512.04530)
 20. [IJCAI 25] **Towards comprehensive and prerequisite-free explainer for graph neural networks** [[paper]](https://arxiv.org/abs/2505.14005)
 21. [ICDM 25] **Explanations Go Linear: Post-Hoc Explainability for Tabular Data with Interpretable Meta-Encoding** [[paper]](https://ieeexplore.ieee.org/abstract/document/11391937)
@@ -317,6 +317,8 @@ Papers about the explainability of GNNs
 157. [CEUR 25] **Quantitative Assessment of GNN Counterfactual Explanation Robustness and Reproducibility under Adversarial Influence** [[paper]](https://ceur-ws.org/Vol-4118/paper4.pdf)
 158. [CEUR 25] **ActiMine-GNN: Activation Mining and Interpretability in Graph Neural Networks** [[paper]](https://ceur-ws.org/Vol-4172/short8.pdf)
 159. [ResearchGate 25] **GraphX-Forecast: A Unified Survey on the Synergy of GNNs, Uncertainty, and XAI for Multi-Horizon Time Series Forecasting** [[paper]](https://www.researchgate.net/profile/Hussein-Ahmad-9/publication/397940661_GraphX-Forecast_A_Unified_Survey_on_the_Synergy_of_GNNs_Uncertainty_and_XAI_for_Multi-Horizon_Time_Series_Forecasting/links/69255e757185551710634105/GraphX-Forecast-A-Unified-Survey-on-the-Synergy-of-GNNs-Uncertainty-and-XAI-for-Multi-Horizon-Time-Series-Forecasting.pdf)
+160. [Informed Machine Learning  25] **On the Interplay of Subset Selection and Informed Graph Neural Networks** [[paper]](https://arxiv.org/abs/2306.10066)
+
 
 
 
@@ -386,7 +388,8 @@ Papers about the explainability of GNNs
 34. [BIBM 24] **Seizure Onset Zone Localization Method based on GNN Explanation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10821860)
 35. [BIBM 24] **DDTExplainer: Mining Drug-Disease Therapeutic Mechanisms based on GNN Explainability** [[paper]](https://ieeexplore.ieee.org/abstract/document/10822060)
 36. [CIKM 24] **EDGE: Evaluation Framework for Logical vs. Subgraph Explanations for Node Classifiers on Knowledge Graphs**[[paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679904)
-37. [ECML/PKDD 24] **Towards Few-shot Self-explaining Graph Neural Networks**[[paper]](https://arxiv.org/abs/2408.07340)
+37. [ECML PKDD 24] **Towards Few-shot Self-explaining Graph Neural Networks**[[paper]](https://arxiv.org/abs/2408.07340)
+149. [ECML PKDD 24] **BAGEL: A Benchmark for Assessing Graph Neural Network Explanations** [[paper]](https://arxiv.org/abs/2206.13983)
 38. [SDM 24] **XGExplainer: Robust Evaluation-based Explanation for Graph Neural Networks**[[paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.8)
 23. [DASFAA 24] **Multi-objective Graph Neural Network Explanatory Model with Local and Global Information Preservation**[[paper]](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_20)
 44. [DMKD 24] **On GNN explanability with activation rules**[[paper]](https://arxiv.org/abs/2406.11594)
@@ -544,7 +547,6 @@ Papers about the explainability of GNNs
 90. [ICML workshop 23] **Generating Global Factual and Counterfactual Explainer for Molecule under Domain Constraints** [[paper]](https://openreview.net/forum?id=qElXYQqxQh)
 91. [Thesis 23] **Developing interpretable graph neural networks for high dimensional feature spaces** [[paper]](https://pub.tik.ee.ethz.ch/students/2022-HS/BA-2022-43.pdf)
 92. [Thesis 23] **Evaluation of Explainability Methods on Single-Cell Classification Tasks Using Graph Neural Networks** [[paper]](https://www.semanticscholar.org/paper/Evaluation-of-Explainability-Methods-on-Single-Cell-Singh-Kobayashi/85f4aba430387a337ec3a4b2aa39bfc7361dea1f)
-93. [Arxiv 23] **On the Interplay of Subset Selection and Informed Graph Neural Networks** [[paper]](https://arxiv.org/abs/2306.10066)
 94. [ISSTA23] **Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?** [[paper]](https://www.semanticscholar.org/paper/Interpreters-for-GNN-Based-Vulnerability-Detection%3A-Hu-Wang/6bb9c86483f212a631324ba9b47c344d419a428a)
 95. [ICECAI23] **Improved GraphSVX for GNN Explanations Based on Cross Entropy** [[paper]](https://www.semanticscholar.org/paper/Improved-GraphSVX-for-GNN-Explanations-Based-on-Yu-Liang/b01c4f2c4d54723b590a828d4e1b4cdbfea5dad4)
 96. [ICRA Workshop 23] **Towards Semantic Interpretation and Validation of Graph Attention-based Explanations** [[paper]](https://openreview.net/forum?id=ymyQeqatQqQ)
@@ -575,7 +577,9 @@ Papers about the explainability of GNNs
 129. [Internet of Things 23] **XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics** [[paper]](https://arxiv.org/abs/2207.09088)
 130. [JOS23] **A Generic Explaining & Locating Method for Malware Detection based on Graph Neural Networks** [[paper]](https://www.jos.org.cn/josen/article/abstract/7123)
 131. [IJCNN 23] **GRAPHSHAP: Explaining Identity-Aware Graph Classifiers Through the Language of Motifs** [[paper]](https://arxiv.org/abs/2202.08815)
-141. [Arxiv 23.01] **Explainability in subgraphs-enhanced Graph Neural Networks** [[paper]](https://arxiv.org/abs/2209.07926)
+141. [NLDL 23] **Explainability in subgraphs-enhanced Graph Neural Networks** [[paper]](https://arxiv.org/abs/2209.07926)
+142. [ICAAAIML 23] **SEEN: Sharpening Explanations for Graph Neural Networks using Explanations from Neighborhoods** [[paper]](https://arxiv.org/pdf/2106.08532.pdf)
+
 
 ### Year 2022
 1. [NeurIPS 22] **GStarX:Explaining Graph-level Predictions with Communication Structure-Aware Cooperative Games** [[paper]](https://openreview.net/pdf?id=Qry8exovcNA)
@@ -636,14 +640,11 @@ Papers about the explainability of GNNs
 125. [Arxiv 22] **Deconfounding to Explanation Evaluation in Graph Neural Networks** [[paper]](https://arxiv.org/abs/2201.08802)
 126. [ICCPR 22] **GANExplainer: GAN-based Graph Neural Networks Explainer**  [[paper]](https://arxiv.org/abs/2301.00012)
 129. [Arxiv 22] **Exploring Explainability Methods for Graph Neural Networks** [[paper]](https://arxiv.org/abs/2211.01770)
-132. [Arxiv 22] **Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation** [[paper]](https://arxiv.org/abs/2210.11094)
-134. [Openreview 23] **TGP: Explainable Temporal Graph Neural Networks for Personalized Recommendation** [[paper]](https://openreview.net/forum?id=EGobBwPc1J-)
+134. [Openreview 22] **TGP: Explainable Temporal Graph Neural Networks for Personalized Recommendation** [[paper]](https://openreview.net/forum?id=EGobBwPc1J-)
 139. [Arxiv 22] **PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes** [[paper]](https://arxiv.org/abs/2208.03075)
 142. [Arxiv 22] **Defending Against Backdoor Attack on Graph Neural Network by Explainability** [[paper]](https://arxiv.org/pdf/2209.02902.pdf)
-144. [Arxiv 22] **Explaining Dynamic Graph Neural Networks via Relevance Back-propagation** [[paper]](https://arxiv.org/abs/2207.11175)
 147. [Arxiv 22] **Faithful Explanations for Deep Graph Models** [[paper]](https://arxiv.org/abs/2205.11850)
 148. [Arxiv 22] **Towards Explanation for Unsupervised Graph-Level Representation Learning** [[paper]](https://arxiv.org/abs/2205.09934)
-149. [Arxiv 22] **BAGEL: A Benchmark for Assessing Graph Neural Network Explanations** [[paper]](https://arxiv.org/abs/2206.13983)
 152. [Arxiv 22] **Explainability in Graph Neural Networks: An Experimental Survey** [[paper]](https://arxiv.org/abs/2203.09258)
 153. [IEEE TSIPN 22] **Explainability and Graph Learning from Social Interactions** [[paper]](https://arxiv.org/pdf/2203.07494.pdf)
 
@@ -676,7 +677,6 @@ Papers about the explainability of GNNs
 64. [BioRxiv 21] **APRILE: Exploring the Molecular Mechanisms of Drug Side Effects with Explainable Graph Neural Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.02.450937v2.abstract)
 65. [ISM 21] **Edge-Level Explanations for Graph Neural Networks by Extending Explainability Methods for Convolutional Neural Networks** [[paper]](https://arxiv.org/pdf/2111.00722.pdf)
 67. [Arxiv 21] **Towards the Explanation of Graph Neural Networks in Digital Pathology with Information Flows** [[paper]](https://arxiv.org/abs/2112.09895)
-68. [Arxiv 21] **SEEN: Sharpening Explanations for Graph Neural Networks using Explanations from Neighborhoods** [[paper]](https://arxiv.org/pdf/2106.08532.pdf)
 69. [Arxiv 21] **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation** [[paper]](https://arxiv.org/pdf/2103.13944.pdf)
 70. [Arxiv 21] **Learnt Sparsification for Interpretable Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2106.12920.pdf)
 72. [ICML workshop 21] **GCExplainer: Human-in-the-Loop Concept-based Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2107.11889.pdf)
