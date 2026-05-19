@@ -146,7 +146,7 @@ Papers about the explainability of GNNs
 124. [WWW 25] **SEHG: bridging interpretability and prediction in self-explainable heterogeneous graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714661)
 131. [TKDE 25] **GAFExplainer: Global view explanation of graph neural networks through attribute augmentation and fusion embedding** [[paper]](https://ieeexplore.ieee.org/abstract/document/10878445/)
 16. [TKDE 25] **A Multi-Objective Explanation Framework for Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/11168917)
-17.[TOIS 25] **SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction** [[paper]](https://dl.acm.org/doi/full/10.1145/3777374)
+17. [TOIS 25] **SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction** [[paper]](https://dl.acm.org/doi/full/10.1145/3777374)
 18. [WSDM 25] **Impo: Interpretable memory-based prototypical pooling** [[paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3703543)
 90. [IJCAI 25] **Explainable graph neural networks via structural externalities** [[paper]](https://arxiv.org/abs/2507.17848)
 19. [IJCAI 25] **Explainable Graph Representation Learning via Graph Pattern Analysis** [[paper]](https://arxiv.org/abs/2512.04530)
