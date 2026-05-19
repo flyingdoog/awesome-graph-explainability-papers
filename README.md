@@ -116,7 +116,6 @@ Papers about the explainability of GNNs
 8. [ICML 25] **TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration** [[paper]](https://arxiv.org/abs/2510.05102) 
 9. [ICML 25] **Actionable Interpretability via Causal Hypergraphs: Unravelling Batch Size Effects in Deep Learning** [[paper]](https://icml.cc/virtual/2025/49603)
 10. [ICML 25] **CoDy: Counterfactual Explainers for Dynamic Graphs** [[paper]](https://openreview.net/forum?id=FE9QN8d536&noteId=WKlQyq8iA9)
-109.[ICML 25] **Redundancy undermines the trustworthiness of self-interpretable GNNs** [[paper]](https://openreview.net/forum?id=hFvp9NYfY9)
 91. [ICML 25] **Redundancy undermines the trustworthiness of self-interpretable GNNs** [[paper]](https://openreview.net/forum?id=hFvp9NYfY9)
 92. [ICML 25] **Beyond topological self-explainable GNNs: A formal explainability perspective** [[paper]](https://arxiv.org/abs/2502.02719)
 11. [ICLR 25] **Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**[[paper]](https://openreview.net/forum?id=9tKC0YM8sX)
