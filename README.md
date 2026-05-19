@@ -56,7 +56,6 @@ Papers about the explainability of GNNs
 - [Arxiv 26.05] A Cognitive Explainer for Fetal ultrasound images classifier Based on Medical Concepts] **Cognitive Explainers of Graph Neural Networks Based on Medical Concepts** [[paper]](https://arxiv.org/abs/2201.07798)
 - [Arxiv 26.05] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution** [[paper]](https://arxiv.org/abs/2605.03377)
 - [Arxiv 26.05] **Why Self-Inconsistency Arises in GNN Explanations and How to Exploit It**[[paper]](https://arxiv.org/abs/2605.07527)
-- [Arxiv 26.05] **Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics**[[paper]](https://arxiv.org/abs/2403.18136)
 - [Arxiv 26.05] **Watermarking Graph Neural Networks Via Explanations For Ownership Protection**[[paper]](https://arxiv.org/pdf/2501.05614)
 - [Preprint 26] **Explainability in Dynamic Graph Anomaly Detection: X-TADDY**[[paper]](https://www.researchgate.net/publication/404465820_Explainability_in_Dynamic_Graph_Anomaly_Detection_X-TADDY)
 - [Arxiv 26.05] **GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**[[paper]](https://arxiv.org/abs/2605.03377)
@@ -144,6 +143,7 @@ Papers about the explainability of GNNs
 14. [TMLR 25] **Hierarchical Language Model Design For Interpretable Graph Reasoning** [[paper]](https://openreview.net/forum?id=F74rZKJXfm)
 15. [TMLR 25] **Evaluating explainability techniques on discrete-time graph neural networks** [[paper]](https://openreview.net/forum?id=JzmXo0rfry)
 16. [TMLR 25] **[RE] GNNBoundary: Towards Explaining Graph Neural Networks through the Lens of Decision Boundaries** [[paper]](https://openreview.net/forum?id=zLfLTHOdZW)
+17. [TIFS 25] **Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics**[[paper]](https://arxiv.org/abs/2403.18136)
 124. [WWW 25] **SEHG: bridging interpretability and prediction in self-explainable heterogeneous graph neural networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714661)
 125. [ICDE 25] **Revelio: Revealing Important Message Flows in Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/abstract/document/11113029/)
 131. [TKDE 25] **GAFExplainer: Global view explanation of graph neural networks through attribute augmentation and fusion embedding** [[paper]](https://ieeexplore.ieee.org/abstract/document/10878445/)
@@ -289,6 +289,8 @@ Papers about the explainability of GNNs
 145. [J Comput Inf Syst 25] **Attributing stealth cyberattacks via Temporal probabilistic graph neural networks** [[paper]](https://www.tandfonline.com/doi/abs/10.1080/08874417.2024.2446955)
 146. [xAI 25] **Explaining vision gnns: A semantic and visual analysis of graph-based image classification** [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-08330-2_4)
 147. [ICSTW 25] **Structural Backdoor Attack on IoT Malware Detectors via Graph Explainability** [[paper]](https://ieeexplore.ieee.org/abstract/document/10962511/)
+148. [IEEE Trans Comput Soc Syst 25] **MLFormer: Unleashing Efficiency Without Attention for Multimodal Knowledge Graph Embedding** [[paper]](https://ieeexplore.ieee.org/abstract/document/11224713/)
+149. [PeerJ Comput Sci 25] **TurkSentGraphExp: an inherent graph aware explainability framework from pre-trained LLM for Turkish sentiment analysis** [[paper]](https://peerj.com/articles/cs-2729/)
 
 
 
