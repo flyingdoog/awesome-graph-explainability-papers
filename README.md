@@ -237,6 +237,9 @@ Papers about the explainability of GNNs
 104. [Modelling 2025]**TE-G-SAGE: Explainable Edge-Aware Graph Neural Networks for Network Intrusion Detection**[[paper]](https://www.mdpi.com/2673-3951/6/4/165)
 105. [ICCNC 25] **AMSVGAE-Based Causal Inference for Interpretable Graph Neural Networks** [[paper]](https://link.springer.com/chapter/10.1007/978-981-95-0129-8_22)
 106. [JCad 25] **A Visual Recommendation Analysis System Based on the Interpretable Graph Neural Network** [[paper]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2023-00549)
+107. [OpenReview 25] **DR-CFGNN: A Completion-Aware Framework for Counterfactual Explainability in Graph Neural Networks** [[paper]](https://openreview.net/forum?id=R96mXloI0e)
+108. [OpenReview 25] **LaCore: Laplacian Cohesive Subgraphs for Graph Representation Learning** [[paper]](https://openreview.net/forum?id=AH3yWSAAfA)
+109. [OpenReview 25] **Self-Guided Explanation for Graph Neural Networks with Semi-Supervision** [[paper]](https://openreview.net/forum?id=5neiC4vYxV)
 107. [OpenReview 25] **Self-explainable Molecular Property Prediction via Multi-view Hypergraph Learning** [[paper]](https://openreview.net/forum?id=hVOsm02Bsb)
 108. [OpenReview 25] **Interpretable Hypergraph Neural Additive Networks** [[paper]](https://openreview.net/forum?id=78ALuvE1Uy)
 109. [OpenReview 25] **Interpretable Graph Embeddings: Feature-Level Decomposition for Trustworthy Graph Neural Networks** [[paper]](https://openreview.net/forum?id=n8reuo0wFj)
@@ -313,6 +316,8 @@ Papers about the explainability of GNNs
 156. [Procedia Comput Sci 25] **Enhancing Stock Market Prediction with Temporal Graph Neural Networks and Large Language Model-Based Explainability** [[paper]](https://search.proquest.com/openview/da15d4d8e797d5cdfbd41e092493e919/1)
 157. [CEUR 25] **Quantitative Assessment of GNN Counterfactual Explanation Robustness and Reproducibility under Adversarial Influence** [[paper]](https://ceur-ws.org/Vol-4118/paper4.pdf)
 158. [CEUR 25] **ActiMine-GNN: Activation Mining and Interpretability in Graph Neural Networks** [[paper]](https://ceur-ws.org/Vol-4172/short8.pdf)
+159. [ResearchGate 25] **GraphX-Forecast: A Unified Survey on the Synergy of GNNs, Uncertainty, and XAI for Multi-Horizon Time Series Forecasting** [[paper]](https://www.researchgate.net/profile/Hussein-Ahmad-9/publication/397940661_GraphX-Forecast_A_Unified_Survey_on_the_Synergy_of_GNNs_Uncertainty_and_XAI_for_Multi-Horizon_Time_Series_Forecasting/links/69255e757185551710634105/GraphX-Forecast-A-Unified-Survey-on-the-Synergy-of-GNNs-Uncertainty-and-XAI-for-Multi-Horizon-Time-Series-Forecasting.pdf)
+
 
 
 
@@ -446,6 +451,8 @@ Papers about the explainability of GNNs
 98. [NeSy 2024] **Towards Understanding Graph Neural Networks: Functional-Semantic Activation Mapping**[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-71170-1_11)
 99. [Thesis 24] **Explainable and physics-guided graph deep learning for air pollution modelling** [[paper]](https://cris.vub.be/ws/portalfiles/portal/117178225/RodrigoBonet_Esther_thesis.pdf)
 100. [Thesis 24] **Influence of molecular structures on graph neural network explainers’ performance**[[paper]](https://repository.tudelft.nl/file/File_03ae5c75-cc17-42c1-a593-1c82d2593c67?preview=1)
+101. [CEUR 24] **Exposing Inductive Biases of Deep Graph Networks through Explainable AI** [[paper]](https://ceur-ws.org/Vol-3914/short86.pdf)
+
 
 
 
