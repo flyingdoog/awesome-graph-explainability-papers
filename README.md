@@ -269,7 +269,7 @@ Papers about the explainability of GNNs
 112. [Arxiv 25.05] **B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data** [[paper]](https://arxiv.org/abs/2505.22252)
 113. [Arxiv 25.05] **MetaGMT: Improving Actionable Interpretability of Graph Multilinear Networks via Meta-Learning Filtration** [[paper]](https://arxiv.org/abs/2505.19445)
 114. [ArXiv 25.05] **Interpreting Graph Inference with Skyline Explanations** [[paper]](https://arxiv.org/abs/2505.07635)
-115. [Arxiv 25.03] **LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks** [[paper]](https://arxiv.org/abs/2503.19476)
+115. [ICLR] **LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks** [[paper]](https://openreview.net/forum?id=nqZe43tRY9)
 116. [ArXiv 25.03] **Z-rex: human-interpretable GNN explanations for real estate recommendations** [[paper]](https://arxiv.org/abs/2503.18001)
 117. [ArXiv 25.03] **Interpretability of Graph Neural Networks to Assess Effects of Global Change Drivers on Ecological Networks** [[paper]](https://arxiv.org/abs/2503.15107)  
 118. [ArXiv 25.03] **Identifying evidence subgraphs for financial risk detection via graph counterfactual and factual reasoning** [[paper]](https://arxiv.org/abs/2503.06441)
