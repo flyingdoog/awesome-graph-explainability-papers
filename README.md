@@ -248,7 +248,7 @@ Papers about the explainability of GNNs
 112. [OpenReview 25] **Interactive and Explainable Graph Neural Networks with Uncertainty Awareness and Adaptive Human Feedback** [[paper]](https://openreview.net/forum?id=G4b2e0oJEN)
 21. [Arxiv 25.12] **Enhancing Explainability of Graph Neural Networks Through Conceptual and Structural Analyses and Their Extensions** [[paper]](https://arxiv.org/abs/2512.08344)
 22. [bioRxiv 25.12] **A Concept-Driven Disentanglement Framework for Interpretable Graph Neural Networks in Structure-Function Coupling** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.15.694495.abstract)
-40. [Arxiv 25.12] **On the probability of necessity and sufficiency of explaining Graph Neural Networks: A lower bound optimization approach** [[paper]](https://arxiv.org/abs/2212.07056)
+40. [Neural Networks] **On the probability of necessity and sufficiency of explaining Graph Neural Networks: A lower bound optimization approach** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608024009948)
 48. [Arxiv 25.12] **GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method** [[paper]](https://arxiv.org/abs/2409.10996)
 22. [Arxiv 25.11] **ARM-Explainer -- Explaining and improving graph neural network predictions for the maximum clique problem using node features and association rule mining** [[paper]](https://arxiv.org/abs/2511.22866)
 38. [Arxiv 25.10] **Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features** [[paper]](https://arxiv.org/abs/2306.00934)
